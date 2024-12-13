@@ -89,7 +89,7 @@ for filename in statement_files:
 
 # Create a DataFrame from the extracted dates
 fomc_dates_df = pd.DataFrame(fomc_data)
-
+fomc_dates_df.to_csv("data/raw/fomc_meeting_dates.csv")
 # Display the DataFrame
 print(fomc_dates_df.head())
 print(fomc_dates_df.tail())

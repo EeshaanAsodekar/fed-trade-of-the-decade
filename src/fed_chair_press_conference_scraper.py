@@ -43,6 +43,7 @@ def download_and_extract_fomc_press_conferences(dates, output_dir='data/raw/fomc
     print("Done.")
 
 if __name__ == '__main__':
+    # NOTE: not all fomc meetings are followed by press conferences by the Fed Chair
     dates = [
         # 2012
         '20120125', '20120313', '20120425', '20120620', '20120801', '20120913', '20121024','20121212',
@@ -69,7 +70,7 @@ if __name__ == '__main__':
         # 2023
         '20230201', '20230322', '20230503', '20230614', '20230726', '20230920', '20231101', '20231213',
         # 2024
-        '20240131', '20240320', '20240501', '20240612', '20240731', '20240918', # Need to update
+        '20240131', '20240320', '20240501', '20240612', '20240731', '20240918', '20241107', # Need to update
 
     ]
 

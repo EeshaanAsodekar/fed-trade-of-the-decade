@@ -28,6 +28,9 @@ def get_rate_moves_by_meeting():
         rate_on_meeting_date = fed_funds_df.loc[fed_funds_df["date"] == meeting_date, "rate"]
         print(f"Rate on meeting date: {rate_on_meeting_date.values}")
 
+        # Initialize tgt_rate as None
+        tgt_rate = None
+
         # Check if there is a rate change on the meeting day itself
         if not rate_on_meeting_date.empty:
             rate_before_meeting = fed_funds_df.loc[fed_funds_df["date"] < meeting_date, "rate"]
@@ -35,8 +38,9 @@ def get_rate_moves_by_meeting():
                 previous_rate = rate_before_meeting.iloc[-1]
                 if rate_on_meeting_date.iloc[0] != previous_rate:
                     rate_change = rate_on_meeting_date.iloc[0] - previous_rate
-                    rate_changes.append({"date": meeting_date, "rate_change": rate_change})
-                    print(f"Rate changed on meeting day: {rate_change}")
+                    tgt_rate = rate_on_meeting_date.iloc[0]
+                    rate_changes.append({"date": meeting_date, "rate_change": rate_change, "tgt_rate": tgt_rate})
+                    print(f"Rate changed on meeting day: {rate_change}, Target rate: {tgt_rate}")
                     continue  # Skip to the next meeting
 
         # Get the rate for the day after the meeting
@@ -47,8 +51,9 @@ def get_rate_moves_by_meeting():
         # Check and calculate the rate change for the next day
         if not rate_on_meeting_date.empty and rate_after_meeting is not None:
             rate_change = rate_after_meeting - rate_on_meeting_date.iloc[0]
-            rate_changes.append({"date": meeting_date, "rate_change": rate_change})
-            print(f"Rate changed the next day: {rate_change}")
+            tgt_rate = rate_after_meeting
+            rate_changes.append({"date": meeting_date, "rate_change": rate_change, "tgt_rate": tgt_rate})
+            print(f"Rate changed the next day: {rate_change}, Target rate: {tgt_rate}")
         else:
             print(f"Issue with meeting date {meeting_date}: Missing data.")
 

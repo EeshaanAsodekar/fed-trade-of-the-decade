@@ -120,7 +120,7 @@ def get_text_dataset():
         # Handles variations like `a1` in meeting statement filenames
         statement_file = os.path.join(meeting_statements_dir, f"monetary{date_str}a1.txt")
         rate_moves_df.at[idx, "meeting_statements"] = load_text(statement_file)
-        rate_moves_df.to_csv("data/processed/meeting_rate_and_text_data.csv")
+        rate_moves_df.to_csv("data/processed/meeting_rate_and_text_data.csv", index=False)
     return rate_moves_df
 
 
@@ -157,12 +157,25 @@ def get_text_macro_market_dataset(df_data_path, df_text_path):
     # Initialize a dictionary to store changes for each variable
     changes = {col: [] for col in df_data.columns if col != 'Date'}
 
+    # # Define targets for specific macro metrics
+    # targets = {
+    #     "PCE Inflation": 0.02,  # 2% target
+    #     "Core PCE Inflation (Ex Food & Energy)": 0.02,  # 2% target
+    #     "CPI (All Urban Consumers)": 0.02,  # 2% implicit target
+    #     "Unemployment Rate": 0.04  # 4% approximate natural rate
+    # }
+
+    # Initialize distance columns
+    # dist_from_targets = {f"dist_from_tgt_{col}": [] for col in targets}
+
     # Iterate over FOMC meeting dates
     for i, current_date in enumerate(df_text['date']):
+        print("********************************************")
+        print(">>> (meeting date) current_date: ", current_date)
         if i == 0:
             # Get the first valid row in df_data for the current_date
-            initial_row = df_data[df_data['Date'] <= current_date]
-            current_row = df_data[df_data['Date'] >= current_date]
+            initial_row = df_data.iloc[[0]]
+            current_row = df_data[df_data['Date'] >= current_date].iloc[:1]  # Nearest after or equal
 
             if initial_row.empty:
                 initial_row = df_data.iloc[0]  # Use the first available row in df_data
@@ -177,36 +190,54 @@ def get_text_macro_market_dataset(df_data_path, df_text_path):
         else:
             # Handle subsequent meeting dates
             previous_date = df_text['date'].iloc[i - 1]
-            initial_row = df_data[df_data['Date'] >= previous_date]
+            initial_row = df_data[df_data['Date'] <= previous_date].iloc[-1:]  # Nearest before or equal
+            current_row = df_data[df_data['Date'] >= current_date].iloc[:1]  # Nearest after or equal
 
             if initial_row.empty:
                 initial_row = df_data.iloc[-1]  # Use the last available row in df_data
             else:
                 initial_row = initial_row.iloc[0]  # Use the first row after or on the previous_date
 
-            current_row = df_data[df_data['Date'] >= current_date]
+            # current_row = df_data[df_data['Date'] >= current_date]
             if current_row.empty:
                 current_row = df_data.iloc[-1]  # Use the last available row in df_data
             else:
                 current_row = current_row.iloc[0]  # Use the first row after or on the current_date
         
+        print("\n>>> initial_row date: ", initial_row['Date'])
+        print("\n>>> current_row date: ", current_row['Date'])
         # Compute changes for each column
         for col in changes:
             initial_value = initial_row[col]
             current_value = current_row[col]
-
+            print(f"\n>>> Column: {col}")
+            print(f"    Initial value: {initial_value}")
+            print(f"    Current value: {current_value}")
             # Handle edge cases for NaN and near-zero initial values
             if pd.notna(initial_value) and initial_value != 0:
                 changes[col].append((current_value - initial_value) / initial_value)
+                print(f"    Computed pct_change:", (current_value - initial_value) / initial_value)
             else:
                 # Assign NaN for invalid cases
                 changes[col].append(None)
 
+        # # Compute distance from targets
+        # for col, target in targets.items():
+        #     current_value = current_row[col]
+        #     if pd.notna(current_value):
+        #         dist_from_targets[f"dist_from_tgt_{col}"].append(current_value - target)
+        #     else:
+        #         dist_from_targets[f"dist_from_tgt_{col}"].append(None)
+
     # Add the computed changes as columns to df_text
     for col, change_values in changes.items():
         df_text[f"pct_change_in_{col}"] = change_values
-    
-    # Plot percentage changes for each column- SANTIY CHECK
+
+    # # Add distance-from-target columns
+    # for col, dist_values in dist_from_targets.items():
+    #     df_text[col] = dist_values
+
+    # Plot percentage changes for each column- SANITY CHECK
     plt.figure(figsize=(12, 8))
     for col in changes.keys():
         pct_change_col = f"pct_change_in_{col}"

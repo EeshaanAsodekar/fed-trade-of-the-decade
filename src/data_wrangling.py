@@ -187,7 +187,6 @@ def get_text_macro_market_dataset(df_data_path, df_text_path):
             else:
                 initial_row = initial_row.iloc[0]  # Use the first row after or on the previous_date
 
-            # current_row = df_data[df_data['Date'] >= current_date]
             if current_row.empty:
                 current_row = df_data.iloc[-1]  # Use the last available row in df_data
             else:
@@ -213,6 +212,26 @@ def get_text_macro_market_dataset(df_data_path, df_text_path):
     # Add the computed changes as columns to df_text
     for col, change_values in changes.items():
         df_text[f"pct_change_in_{col}"] = change_values
+
+    # Compute target distances for PCE Inflation and Unemployment Rate from df_data
+    target_pce = 2  # Target for PCE Inflation (2%)
+    target_unrate = 4  # Approximate natural rate of unemployment (4%)
+
+    # Add the target columns to df_data
+    if "PCE Inflation YoY Change" in df_data.columns:
+        df_data['tgt_dist_PCE Inflation YoY Change'] = abs(df_data["PCE Inflation YoY Change"] - target_pce)
+
+    if "Unemployment Rate" in df_data.columns:
+        df_data['tgt_dist_Unemployment Rate'] = abs(df_data["Unemployment Rate"] - target_unrate)
+
+    # Merge the target columns from df_data into df_text
+    df_text = pd.merge(
+        df_text,
+        df_data[['Date', 'tgt_dist_PCE Inflation YoY Change', 'tgt_dist_Unemployment Rate']],
+        left_on='date',
+        right_on='Date',
+        how='left'
+    ).drop(columns=['Date'])
 
     # Plot percentage changes for each column- SANITY CHECK
     plt.figure(figsize=(12, 8))

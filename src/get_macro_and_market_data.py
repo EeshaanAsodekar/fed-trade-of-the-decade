@@ -84,3 +84,28 @@ print(f"All macro and market data saved to '{output_file}'.")
 
 # Display the first few rows of the combined data
 print(combined_df.head())
+
+### linearly interpollating the macro and market data
+# Load the data
+df = pd.read_csv(r"data\raw\all_macro_market_data_2012_present.csv")
+
+# Ensure the 'Date' column is a datetime object
+df['Date'] = pd.to_datetime(df['Date'])
+
+# Set the 'Date' column as the index
+df.set_index('Date', inplace=True)
+
+df_interpolated = df.interpolate(method='linear', axis=0)
+
+print(df_interpolated.head())
+print(df_interpolated.shape)
+print(df_interpolated.isna().sum().sum())
+
+df_interpolated.dropna(axis=0,inplace=True)
+
+print(df_interpolated.head())
+print(df_interpolated.shape)
+print(df_interpolated.isna().sum().sum())
+
+output_file = "data/processed/interpolated_all_macro_market_data_2012_present.csv"
+df_interpolated.to_csv(output_file, index_label="Date")

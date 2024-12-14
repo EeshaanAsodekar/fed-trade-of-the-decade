@@ -26,7 +26,7 @@ macro_variables = {
     "ISM Manufacturing PMI": "MANEMP",
     "ISM Non-Manufacturing PMI": "NMFSL",
     "Trade Balance": "BOPGTB",
-    "M2 Money Supply": "M2",
+    "M2 Money Supply": "M2SL",
     "30-Year Treasury Yield": "DGS30",
     "Initial Jobless Claims": "ICSA",
 }

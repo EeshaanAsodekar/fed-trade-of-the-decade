@@ -18,7 +18,7 @@ macro_variables = {
     "Core PCE Inflation (Ex Food & Energy)": "PCEPILFE",
     "Trimmed Mean PCE": "PCETRIM12M159SFRBDAL",
     "Median CPI": "MEDCPIM158SFRBCLE",
-    "GDP Deflator": "A191RL1Q225SBEA",
+    "Real GDP": "A191RL1Q225SBEA",
     "GDP Growth Rate": "GDPC1",
     "10-Year Treasury Yield": "DGS10",
     "2-Year Treasury Yield": "DGS2",

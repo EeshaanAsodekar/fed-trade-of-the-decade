@@ -231,7 +231,22 @@ def get_text_macro_market_dataset(df_data_path, df_text_path):
         left_on='date',
         right_on='Date',
         how='left'
-    ).drop(columns=['Date'])
+    )
+
+    # Handle cases where there is no exact date match
+    # For rows where the merge resulted in NaN, find the nearest earlier Date
+    missing_indices = df_text[df_text['tgt_dist_PCE Inflation YoY Change'].isna()].index
+
+    print("MISSING>>> ",len(missing_indices))
+
+    for idx in missing_indices:
+        missing_date = df_text.loc[idx, 'date']
+        earlier_row = df_data[df_data['Date'] <= missing_date].iloc[-1]  # Find the nearest earlier Date
+        df_text.loc[idx, 'tgt_dist_PCE Inflation YoY Change'] = earlier_row['tgt_dist_PCE Inflation YoY Change']
+        df_text.loc[idx, 'tgt_dist_Unemployment Rate'] = earlier_row['tgt_dist_Unemployment Rate']
+
+    # Drop the 'Date' column to keep it out of df_text
+    df_text = df_text.drop(columns=['Date'])
 
     # Plot percentage changes for each column- SANITY CHECK
     plt.figure(figsize=(12, 8))

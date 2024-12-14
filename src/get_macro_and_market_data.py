@@ -45,7 +45,7 @@ market_tickers = {
 }
 
 # Specify the time range
-start_date = "2012-01-01"
+start_date = "2011-01-01"
 end_date = datetime.datetime.now().strftime("%Y-%m-%d")
 
 # Fetch macroeconomic data from FRED
@@ -108,5 +108,99 @@ print(df_interpolated.head())
 print(df_interpolated.shape)
 print(df_interpolated.isna().sum().sum())
 
+# Compute annualized percentage changes for the specified macro variables
+annual_change_vars = [
+    "CPI (All Urban Consumers)",
+    "Core CPI (Ex Food & Energy)",
+    "PCE Inflation",
+    "Core PCE Inflation (Ex Food & Energy)",
+]
+for var in annual_change_vars:
+    if var in df_interpolated.columns:
+        # Compute YoY percentage change
+        df_interpolated[f"{var} YoY Change"] = (
+            (df_interpolated[var] / df_interpolated[var].shift(252) - 1) * 100
+        )
+
+# Drop rows before 2012-01-01- don't want 2011 data in final dataset
+start_date = "2012-01-01"
+df_interpolated = df_interpolated[df_interpolated.index >= start_date]
+
+# Save the final truncated dataset
 output_file = "data/processed/interpolated_all_macro_market_data_2012_present.csv"
 df_interpolated.to_csv(output_file, index_label="Date")
+
+
+
+
+### visualizing for sanity check
+import matplotlib.pyplot as plt
+
+# List of columns to plot
+columns_to_plot = [
+    "CPI (All Urban Consumers)",
+    "Core CPI (Ex Food & Energy)",
+    "PCE Inflation",
+    "Core PCE Inflation (Ex Food & Energy)"
+]
+
+for column in columns_to_plot:
+    yoy_column = f"{column} YoY Change"
+    
+    if column in df.columns and yoy_column in df_interpolated.columns:
+        plt.figure(figsize=(12, 6))
+        
+        # Plot original data points
+        plt.scatter(
+            df.index, 
+            df[column], 
+            color='red', 
+            label='Original Data Points', 
+            s=50,  # Size of red dots
+            alpha=0.7
+        )
+        
+        # Plot interpolated data as a line
+        plt.plot(
+            df_interpolated.index, 
+            df_interpolated[column], 
+            color='blue', 
+            label='Interpolated Data', 
+            linewidth=1.5
+        )
+        
+        # Plot YoY change on a secondary y-axis
+        ax = plt.gca()  # Get current axis
+        ax2 = ax.twinx()  # Create a secondary y-axis
+        
+        ax2.plot(
+            df_interpolated.index, 
+            df_interpolated[yoy_column], 
+            color='green', 
+            linestyle='--', 
+            label=f'{column} YoY Change', 
+            linewidth=1.5, 
+            alpha=0.7
+        )
+        ax2.set_ylabel('YoY Change (%)', fontsize=12, color='green')
+        
+        # Adjust appearance
+        ax2.tick_params(axis='y', colors='green')
+        
+        # Add labels and title
+        ax.set_title(f'Original, Interpolated, and YoY Change for {column}', fontsize=16)
+        ax.set_xlabel('Date', fontsize=12)
+        ax.set_ylabel(column, fontsize=12, color='blue')
+        ax.tick_params(axis='y', colors='blue')
+        ax.legend(loc='upper left', fontsize=10)
+        ax2.legend(loc='upper right', fontsize=10)
+        
+        # Grid and x-axis formatting
+        plt.grid(True, linestyle='--', alpha=0.7)
+        plt.xticks(rotation=45)
+        
+        # Show plot
+        plt.tight_layout()
+        plt.show()
+    else:
+        print(f"Column '{column}' or its YoY Change column not found in the dataset.")

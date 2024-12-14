@@ -157,17 +157,6 @@ def get_text_macro_market_dataset(df_data_path, df_text_path):
     # Initialize a dictionary to store changes for each variable
     changes = {col: [] for col in df_data.columns if col != 'Date'}
 
-    # # Define targets for specific macro metrics
-    # targets = {
-    #     "PCE Inflation": 0.02,  # 2% target
-    #     "Core PCE Inflation (Ex Food & Energy)": 0.02,  # 2% target
-    #     "CPI (All Urban Consumers)": 0.02,  # 2% implicit target
-    #     "Unemployment Rate": 0.04  # 4% approximate natural rate
-    # }
-
-    # Initialize distance columns
-    # dist_from_targets = {f"dist_from_tgt_{col}": [] for col in targets}
-
     # Iterate over FOMC meeting dates
     for i, current_date in enumerate(df_text['date']):
         print("********************************************")
@@ -221,21 +210,9 @@ def get_text_macro_market_dataset(df_data_path, df_text_path):
                 # Assign NaN for invalid cases
                 changes[col].append(None)
 
-        # # Compute distance from targets
-        # for col, target in targets.items():
-        #     current_value = current_row[col]
-        #     if pd.notna(current_value):
-        #         dist_from_targets[f"dist_from_tgt_{col}"].append(current_value - target)
-        #     else:
-        #         dist_from_targets[f"dist_from_tgt_{col}"].append(None)
-
     # Add the computed changes as columns to df_text
     for col, change_values in changes.items():
         df_text[f"pct_change_in_{col}"] = change_values
-
-    # # Add distance-from-target columns
-    # for col, dist_values in dist_from_targets.items():
-    #     df_text[col] = dist_values
 
     # Plot percentage changes for each column- SANITY CHECK
     plt.figure(figsize=(12, 8))

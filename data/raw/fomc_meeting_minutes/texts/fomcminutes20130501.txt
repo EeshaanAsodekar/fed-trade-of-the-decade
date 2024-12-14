@@ -1,0 +1,645 @@
+ 
+ 
+ Minutes of the Federal Open Market Committee 
+April 30–May 1, 2013
+ 
+A meeting of the Federal Open Market Committee was 
+held in the offices of the Board of Governors of the Federal Reserve System in Washington, D.C., on Tues-
+day, April 30, 2013, at 2:00 p.m. and continued on Wednesday, May 1, 2013, at 9:00 a.m.  PRESENT:  
+Ben Bernanke, Chairman William C. Dudley, Vice Chairman James Bullard Elizabeth Duke 
+Charles L. Evans 
+Esther L. George Jerome H. Powell Sarah Bloom Raskin 
+Eric Rosengren 
+Jeremy C. Stein Daniel K. Tarullo Janet L. Yellen 
+ Christine Cumming, Richard W. Fisher, Narayana 
+Kocherlakota, Sandra Pianalto, and Charles I. Plosser, Alternate Members of the Federal Open 
+Market Committee 
+ 
+Jeffrey M. Lacker, Dennis P. Lockhart, and John C. 
+Williams, Presidents of the Federal Reserve Banks 
+of Richmond, Atlanta, and San Francisco, respec-
+tively 
+ Deborah J. Danker, Deputy Secretary 
+Matthew M. Luecke, Assistant Secretary 
+David W. Skidmore, Assistant Secretary Michelle A. Smith, Assistant Secretary Scott G. Alvarez, General Counsel 
+Steven B. Kamin, Economist 
+David W. Wilcox, Economist  Thomas A. Connors, Troy Davig, Michael P. Leahy, 
+Stephen A. Meyer, David Reifschneider, Daniel G. Sullivan, and William Wascher, Associate Econo-mists 
+ 
+Simon Potter, Manager, System Open Market Account 
+ Michael S. Gibson, Director, Division of Banking Su-
+pervision and Regulation, Board of Governors James A. Clouse and William Nelson, Deputy Direc-
+tors, Division of Monetary Affairs, Board of Gov-ernors 
+ Andreas Lehnert, Deputy Director, Office of Financial 
+Stability Policy and Research, Board of Governors 
+ 
+Jon W. Faust, Special Adviser to the Board, Office of 
+Board Members, Board of Governors 
+ 
+Linda Robertson, Assistant to the Board, Office of 
+Board Members, Board of Governors 
+ Seth B. Carpenter, Senior Associate Director, Division 
+of Monetary Affairs, Board of Governors 
+ Joyce K. Zickler, Senior Adviser, Division of Monetary 
+Affairs, Board of Governors 
+ 
+Michael T. Kiley and Thomas Laubach, Associate Di-
+rectors, Division of Resear ch and Statistics, Board 
+of Governors 
+ David Bowman, Deputy Associate Director, Division 
+of International Finance, Board of Governors 
+ 
+Steven A. Sharpe and John J. Stevens, Assistant Direc-
+tors, Division of Research and Statistics, Board of Governors; Min Wei, Assistant Director, Division of Monetary Affairs, Board of Governors 
+ 
+Stefania D’Amico, Senior Economist, Division of 
+Monetary Affairs, Board of Governors 
+ 
+Randall A. Williams, Records Project Manager, Divi-
+sion of Monetary Affairs, Board of Governors 
+ Kenneth C. Montgomery, First Vice President, Federal 
+Reserve Bank of Boston 
+ David Altig, Jeff Fuhrer, and Loretta J. Mester, Execu-
+tive Vice Presidents, Federal Reserve Banks of At-lanta, Boston, and Philadelphia, respectively 
+ Lorie K. Logan and Mark E. Schweitzer, Senior Vice 
+Presidents, Federal Reserve Banks of New York and Cleveland, respectively 
+ 
+Page 1
+_____________________________________________________________________________________________
+ 
+ 
+ Fred Furlong, Group Vice President, Federal Reserve 
+Bank of San Francisco 
+ 
+Evan F. Koenig and David C. Wheelock, Vice Presi-
+dents, Federal Reserve Banks of Dallas and St. Louis, respectively 
+ Robert L. Hetzel and Andrea Tambalotti, Senior Econ-
+omists, Federal Reserve Banks of Richmond and New York, respectively 
+ Jonathan Heathcote, Senior Research Economist, Fed-
+eral Reserve Bank of Minneapolis 
+ 
+ 
+Developments in Financial Markets and the Fed-eral Reserve’s Balance Sheet The Manager of the System Open Market Account 
+( S O M A )  r e p o r t e d  o n  d e v e l o p m e n t s  i n  d o m e s t i c  a n d  
+foreign financial markets as well as the System open market operations during the period since the Federal Open Market Committee (FOMC) met on March 19–
+20, 2013.  By unanimous vote , the Committee ratified 
+the Open Market Desk’s domestic transactions over 
+the intermeeting period.  There were no intervention operations in foreign currencies for the System’s ac-
+count over the intermeeting period. 
+By unanimous vote, the Committee agreed to extend 
+the reciprocal currency (swap) arrangements with the Bank of Canada and the Banco de México for an addi-
+tional year beginning in  mid-December 2013; these 
+arrangements are associated with the Federal Reserve’s 
+participation in the No rth American Framework 
+Agreement of 1994.  The arrang ement with the Bank of 
+Canada allows for cumulative drawings of up to $2 bil-
+lion equivalent, and the arrangement with the Banco de México allows for cumulative drawings of up to $3 billion equivalent.  The vote to renew the System’s 
+participation in these swap arrangements was taken at 
+this meeting because a provision in the Framework Agreement requires each party to provide six months’ prior notice of an intention to terminate its participa-
+tion.   
+Staff Review of the Economic Situation 
+The information reviewed at the April 30–May 1 meet-ing indicated that economic activity expanded at a 
+moderate pace in the first quarter.  In March, the un-
+employment rate edged down further, although it con-tinued to be elevated, and employment growth slowed.  Consumer price inflation was relatively low, while measures of longer-run inflation expectations remained stable. 
+After faster gains in January and February, private non-
+farm employment increased at a subdued rate in March, and government employment declined slightly.  The unemployment rate was 7.6 percent in March, a little 
+below its average in the fourth quarter of last year.  The 
+labor force participation rate also edged down to below its fourth-quarter average.  The rate of long-duration unemployment and the share of workers employed part 
+time for economic reasons declined somewhat in 
+March, but these measures remained well above their pre-recession levels.  Indicators of near-term labor market conditions were consistent with projections of 
+moderate increases in employment in the coming 
+months:  Measures of job openings generally moved up, but the rate of gross private-sector hiring and indi-cators of firms’ hiring plans were subdued, on balance, 
+and initial claims for unem ployment insurance trended 
+up a little over the intermeeting period.   
+Manufacturing production decreased slightly in March 
+but expanded at a brisk rate in the first quarter as a 
+whole, supported in part by a recovery in output fol-
+lowing Hurricane Sandy, and the rate of manufacturing capacity utilization in March was somewhat higher than 
+in the fourth quarter.  The production of motor vehi-
+cles and parts rose solidly in March, but factory output 
+outside of the motor vehicle sector declined.  Au-tomakers’ schedules indicate d that the pace of motor 
+vehicle assemblies in the coming months would be a bit 
+below that in March.  Broad indicators of manufactur-
+ing production, such as the diffusion indexes of new orders from the national and regional manufacturing surveys, were at levels that pointed to small increases in 
+factory output in the near term.  
+Real personal consumption expenditures (PCE) ex-
+panded at a solid pace in March and in the first quarter as a whole.  Some factors that tend to influence house-
+hold spending were generally positive in recent months.  
+For example, real disposable income increased in Feb-ruary and March, supported in  part by recent declines 
+in retail gasoline prices that raised household purchas-
+ing power and offset to some extent the effects of this 
+year’s higher payroll and income taxes.  In addition, household net worth likely rose in recent months as a result of higher equity values and home prices.  In con-
+trast, consumer sentiment in the Thomson Reu-
+ters/University of Michigan Surveys of Consumers was roughly flat, on balance, in March and April and re-mained relatively downbeat.  
+Page 2
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ 
+ Conditions in the housing sector continued to improve, 
+as real expenditures for residential investment expand-
+ed briskly in the first quarter, although from a low level.  
+Total combined starts of new single-family homes and multifamily units increased in March to a level well above that at the beginning of the year.  Home prices 
+continued to rise through February, and sales of new 
+homes rose in March, but sales of existing homes de-creased a little. 
+Growth in real business expenditures on equipment 
+and software slowed in the first quarter.  Nominal 
+shipments of nondefense capital goods excluding air-craft continued to rise gradually in February and March, but new orders were slightly below the level of ship-
+ments, pointing to modest gains in shipments in the 
+near term.  Other forward-looking indicators, such as surveys of business conditions and capital spending plans, also suggested that outlays for business equip-
+ment would rise at a subdued pace in the coming 
+months.  Real business spending for nonresidential construction declined a little in the first quarter.  Real inventory investment increase d in the first quarter, and 
+business inventories in most industries appeared to be 
+broadly aligned with sales in recent months.  
+Real federal government purchases declined markedly 
+in the first quarter, led by a significant decrease in de-
+fense spending, which may have partially reflected the 
+anticipated effects of the federal spending sequestra-tion.  Real state and local government purchases also decreased somewhat in the first quarter, as state and 
+local construction expenditures continued to decline.     
+The advance release of first-quarter data for the nation-
+al income and product accounts showed that real net exports of goods and servi ces also subtracted moder-
+ately from real gross domestic product (GDP) growth, as real imports outpaced real exports. 
+Overall consumer prices, as measured by the price in-
+dex for PCE, edged down in March and rose just 
+1 percent from a year earlier.  Consumer energy prices declined in March, and retail gasoline prices fell further in the first few weeks of April.  Consumer food prices only edged up in March.  Consumer prices excluding 
+food and energy were flat in March, and their increase 
+from 12 months earlier was similar to that for total consumer prices.  Near-term inflation expectations from the Thomson Reuters/University of Michigan 
+Surveys of Consumers were slightly lower in April, and 
+longer-term inflation expect ations in the survey were 
+little changed and remained within the narrow range that they have occupied for several years. Measures of labor compensation indicated that gains in nominal wages remained subdued.  Increases in the 
+employment cost index were modest over the year end-
+ing in the first quarter.  Average hourly earnings for all employees were unchanged in March, and hourly earn-ings gains in the first quarter as a whole were muted.        
+Economic growth in foreig n economies overall in the 
+first quarter of 2013 showed  only a small improvement 
+from that registered in the second half of 2012.  Real GDP growth picked up in the United Kingdom, and 
+recent indicators suggested that the pace of contraction 
+moderated in the euro area.  In contrast, economic growth in China slowed abruptly after surging late last year.  Foreign inflation appeared to increase a little in 
+the first quarter, partly as a result of higher food prices 
+in several emerging market economies, but remained quite moderate.  
+Staff Review of the Financial Situation 
+Financial conditions improved a little, on balance, over 
+the intermeeting period.  Yields of longer-term Treas-ury securities and foreign benchmark sovereign bonds declined appreciably, reflecting the somewhat negative 
+tone of U.S. and foreign economic data releases as well 
+as policy actions by the Bank of Japan that were more accommodative than the markets had expected.  Equity prices rose modestly, on net, supported in part by solid 
+quarterly earnings reports. 
+The expected path of the federal funds rate implied by 
+market quotes shifted down moderately over the in-
+termeeting period.  However, the Desk’s survey of 
+primary dealers, conducted prior to the April 30–May 1 
+meeting, indicated that the dealers continued to view 
+the third quarter of 2015 as the most likely time for the initial increase in the target federal funds rate.  The me-
+dian dealer anticipated that the FOMC would maintain 
+its current pace of asset purchases through December 2013 and saw the second quarter of 2014 as the most probable time for the end of asset purchases, implying 
+a slight upward revision to the projected total size of 
+the Federal Reserve’s a sset purchase program. 
+Over the intermeeting period, near-term measures of inflation compensation derived from yields on nominal 
+and inflation-protected Treasury securities moved low-
+er amid somewhat disappointing economic data and declines in energy and other commodity prices; forward measures of inflation comp ensation changed little at 
+longer horizons.  Yields on agency mortgage-backed securities (MBS) decreased about in line with those on nominal Treasury securities of comparable duration.  
+Minutes of the Meeting of April 30–May 1, 2013
+Page 3
+_____________________________________________________________________________________________
+ 
+ 
+ Conditions in domestic do llar funding markets were 
+generally little changed, an d offshore dollar funding 
+markets reacted only modestly to the elevated uncer-
+tainty surrounding the negotiations, early in the inter-meeting period, to resolve the banking crisis in Cyprus.   
+Some indicators of the condition of domestic financial 
+institutions weakened slightly.  Share prices for the 
+largest domestic banking organizations declined some-what, on balance, and bank credit default swap spreads edged a bit higher, on average, across the larger firms in 
+the sector. 
+Broad equity price indexes increased, on net, over the 
+intermeeting period, likely reflecting solid quarterly earnings reports, stable me dium-term earnings expecta-
+tions, and lower interest rate s.  Option-implied volatili-
+ty for the S&P 500 index over the near term remained in a range that was low by historical standards.   
+Yields on corporate bonds fell roughly in line with 
+those on Treasury securities of comparable maturity, 
+generally leaving their spreads little changed.  The rate of corporate bond issuance by nonfinancial firms re-mained robust in March and April.  Consistent with 
+recent trends, some companies reportedly retired a no-
+table portion of their outstanding commercial paper 
+and issued longer-term bonds in comparable amounts.  Syndicated leveraged loans were  issued at a record pace 
+in the first quarter, supported by strong demand for this type of asset, particularly from nonbank institu-tions.  Gross public issuance of equity by nonfinancial firms was solid over the same period.  
+Conditions in some segmen ts of the commercial real 
+estate (CRE) sector continued to improve in recent 
+months.  Outstanding CRE loans held by commercial banks edged up in the past two quarters following a 
+prolonged period of decline, and commercial mortgage-
+backed security issuance was st rong in the first quarter.  
+According to the Senior Loan Officer Opinion Survey on Bank Lending Practices (SLOOS) conducted in 
+April, the fraction of banks that eased standards on 
+CRE loans over the past three months increased to a relatively high level, while demand for these loans strengthened further.  CRE prices continued to move 
+up slowly, and price indexe s for various market seg-
+ments reached levels last  seen in late 2008. 
+Rates on conforming home mortgage loans declined 
+over the intermeeting period, and the spread between 
+the primary mortgage rate and MBS yields remained 
+well below its peak during the second half of 2012.  The estimated pace of mortgage refinancing origina-tions continued to be high, supported by historically low mortgage rates.  However, purchase mortgage ap-
+plications stayed at low levels.  Overall delinquencies 
+trended lower for both prim e and subprime mortgages, 
+primarily reflecting the very tight underwriting stand-ards imposed over the past several years. 
+Consumer credit continued to expand in January and 
+February, mostly driven by sizable increases in nonre-
+volving credit.  Growth was pa rticularly strong in auto 
+loans as well as in student loans extended through the 
+Department of Education’s Direct Loan Program.  In 
+contrast, total revolving credit was about flat amid con-tinued tight underwriting standards and terms on credit card loans.  Issuance of consumer asset-backed securi-
+ties—in particular, those backed by subprime auto 
+loans—remained robust  in recent months. 
+Total bank credit expanded moderately during the first quarter of 2013.  Gains contin ued to be concentrated in 
+commercial and industrial (C&I) loans, which increased especially strongly at domest ic banks.  In the April 
+SLOOS, relatively large net fractions of these banks reported having eased standards and reduced spreads 
+on C&I loans to firms of all sizes.  
+M2 grew at a faster pace in March and April than earli-
+er in the year, possibly boosted by the higher level of annual tax payments and refunds relative to recent 
+years.  Meanwhile, the monetary base expanded briskly 
+over those two months, driven  mainly by the increase 
+in reserve balances resulting from the Federal Reserve’s asset purchases.  
+Early in the intermeeting period, prices of a range of 
+risky assets abroad fell in reaction to reports of the “bail-in” of depositors at banks in Cyprus and the im-position of an extended bank holiday in that country, 
+but outside of Cyprus those movements generally 
+proved temporary.  Euro-area equity indexes, which fell as stresses in Cyprus intens ified, ended the period up 
+slightly.  By contrast, stock prices in Japan rose sharply, 
+as the Bank of Japan surpri sed investors with the scale 
+of its new monetary policy program aimed at raising 
+inflation to 2 percent.  Yields on longer-term Japanese government bonds displayed considerable volatility in 
+the days following the annou ncement, although they 
+were little changed, on net, over the intermeeting peri-od.  Outside of Japan, foreign benchmark sovereign yields fell over the intermeeting period, with market 
+commentary citing weak U.S. and foreign macroeco-
+nomic data releases, increased expectations for further monetary accommodation by some foreign central banks, and the announcement by the Bank of Japan.  
+Page 4
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ 
+ After appreciating, on balance, since early this year, the 
+dollar depreciated against most currencies, although it 
+continued to appreciate against the yen.  Emerging 
+market stock prices changed little, on net, and emerging market equity mutual funds experienced modest out-flows. 
+Staff Economic Outlook  
+In the economic forecast prepared by the staff for the 
+April 30–May 1 FOMC meeting, the projection for real GDP growth was little revised from that prepared for 
+the March meeting.  With fiscal policy expected to be 
+tighter this year than last year, the staff still anticipated 
+that the pace of expansion in real GDP would only somewhat exceed the growth rate of potential output in 
+2013.  The staff also contin ued to project that real 
+GDP would accelerate gr adually in 2014 and 2015, 
+supported by an eventual easing in the effects of fiscal 
+policy restraint on economic growth, increases in con-
+sumer and business sentiment, further improvements in 
+credit availability and financial conditions, and accom-modative monetary policy.  The expansion in economic activity was anticipated to slowly reduce the slack in 
+labor and product markets over the projection period, 
+and the unemployment rate was expected to decline gradually. 
+The staff’s forecast for infl ation was also little revised 
+from the projection prepared for the March FOMC 
+meeting.  With longer-run inflation expectations as-sumed to remain st able, energy prices expected to con-
+tinue to trend down, and significant resource slack per-
+sisting over the forecast period, the staff continued to 
+project that inflation would remain subdued through 2015. 
+The staff viewed the uncertainty around its forecast for 
+economic activity as similar to the average level over 
+the past 20 years.  However, the risks to this outlook 
+were viewed as skewed to the downside, reflecting in part concerns about the situation in Europe.  Although 
+the staff saw the outlook for inflation as uncertain, the 
+risks were viewed as balanc ed and not unusually high. 
+Participants’ Views on Current Conditions and the Economic Outlook 
+In their discussion of the economic situation, meeting 
+participants generally indicated that they viewed the information received during the intermeeting period as suggesting that the economy was expanding at a mod-
+erate pace despite some softness in recent economic 
+data.  Conditions in the labor market showed some continued improvement, although the unemployment rate remained elevated.  Spending by consumers con-tinued to expand, supporte d by better credit condi-
+tions, rising equity and housing prices, and lower ener-
+gy prices; and the housing sector improved further.  
+However, growth in business investment spending 
+slowed somewhat, and fiscal policy appeared to be ex-erting significant near-term restraint on the economy.  
+Perhaps reflecting more subdued growth abroad, espe-
+cially in Europe and China,  net exports weakened in 
+the first quarter. 
+Participants generally saw th e economic outlook as lit-
+tle changed since they met in March.  However, eco-
+nomic data releases over the intermeeting period were mixed, raising some concern that the recovery might be slowing after a solid start earlier this year, thereby re-
+peating the pattern observed in recent years.  Various 
+views on this prospect were offered, from those partic-ipants who put more emphasis on the underlying mo-mentum of the economy, noting the strengthening in 
+private domestic final demand, to those who stressed 
+the growing fiscal restraint or the other headwinds still 
+facing the economy.  Participants continued to antici-pate that, with appropriate monetary policy, growth 
+would proceed at a moderate pace over the medium 
+run and that the unemployment rate would decline gradually toward levels cons istent with the Committee’s 
+mandate.  A number of participants noted that the bal-
+ance of risks to growth remained to the downside, al-
+though a couple suggested that such risks had dimin-ished appreciably since last fall.  A few participants 
+warned that, in light of ongoing fiscal restraint and a 
+weak global outlook, economic data could remain soft 
+for the next few months, regardless of the underlying strength of the economy.   
+Consumer spending was reported to be strong in a 
+number of areas of the country and, more broadly, ap-
+peared to be supported by rising equity and house pric-es, improved household balance sheets, and easier cred-it conditions.  However, concerns were expressed that 
+this rate of growth in consumer expenditures might not 
+be sustainable without the support of a notable pickup in business investment and hiring.  Other factors that m i g h t  a f f e c t  s p e n d i n g  a l s o  w e r e  m e n t i o n e d .   F o r  e x -
+ample, the losses in income and wealth experienced 
+during the crisis might lead households to be more cau-tious in their spending and to save at a higher rate;  wealth gains in recent years appeared concentrated 
+among higher-net-worth individuals, who may have a 
+lower propensity to spend out of additional wealth; and retailers reported weakness in spending by lower-income households, who had been more affected by 
+the increase in payroll taxes. 
+Minutes of the Meeting of April 30–May 1, 2013
+Page 5
+_____________________________________________________________________________________________
+ 
+ 
+ Participants saw the housing market as having 
+strengthened further during  the intermeeting period 
+and pointed variously to rising house prices, growth in home sales, a lower inventory of houses for sale, a re-duction in the average time houses stayed on the mar-ket, and encouraging reports from homebuilders.  More 
+all-cash or investor purchases were being reported, and 
+the pace of home purchases overall appeared to be constrained less by a lack of demand than by a lack of homes for sale, in part reflecting fewer newly fore-
+closed houses coming onto the market.  The rate of 
+new delinquencies on mortgages declined nearly to pre-
+crisis levels, and the pipeline of properties in the fore-closure process was being slowly worked down, in part 
+through modifications and short sales.  Over time, the 
+supply of homes for sale was expected to increase as new construction picked up and sellers saw more at-tractive opportunities to put their houses on the mar-
+ket.  The improvement in the housing sector was also 
+seen as contributing to a pickup in activity in related industries.   
+With some exceptions, business contacts were report-
+ing continued caution about expanding investment or 
+payrolls.  Reports included some weakening in manu-facturing activity, due in part to reduced demand from abroad, and farm exports in one District were projected 
+to be flat following strong growth in previous years.  
+However, the CRE sector s howed some signs of re-
+covery, and survey results in dicated that the terms of 
+CRE lending were easing and loan demand increasing.  
+The federal spending sequestration and recent tax in-creases were viewed as restraining aggregate demand.  Participants differed somewhat in their assessments of the magnitude of these effects on the economy, with 
+views ranging from an estimate of substantial fiscal 
+drag to one of less restraint than previously expected.  A few participants mentioned the sequestration’s im-pact on hiring and spending by the defense industry or 
+government contractors, but one participant noted that 
+a decline in expected future tax liabilities of the private 
+sector associated with lower federal spending might provide a partial offset to the economic effects of the 
+budget cuts. 
+Participants generally saw si gns of improvement in la-
+bor market conditions despite the weaker-than-
+expected March payroll employment figure.  Employ-
+ment growth in earlier mo nths had been solid, and 
+more-recent improvements included the further decline 
+in the unemployment rate in March and the gradual progress being made in some other labor market indi-cators.  However, several participants cautioned that the drop in the unemployment rate in the latest month 
+was also accompanied by another reduction in the labor 
+force participation rate; the decline in labor force par-ticipation over recent quarters could indicate that the reduction in overall labor market slack had been sub-
+stantially smaller than suggested by the change in the 
+unemployment rate over that period.  One participant commented that assessing the shortfall of employment from its maximum level requi red taking account of not 
+only the gap between the unemployment rate and its corresponding natural rate, but also the gap between the labor force participation rate and its longer-term trend—a trend which was admittedly subject to consid-
+erable uncertainty.  A few pa rticipants mentioned that 
+job growth may have been restrained to an extent by 
+businesses postponing hiring because of uncertainties over the implementation of health-care legislation or 
+because they were unable to find certain types of skilled 
+workers.  
+Both headline and core PCE inflation in the first quar-
+ter came in below the Committee’s longer-run goal of  
+2 percent, but these recent lower readings appeared to 
+be due, in part, to temporary factors; other measures of inflation as well as inflation expectations had remained more stable.  Accordingly, participants generally con-
+tinued to expect that inflation would move closer to the 
+2 percent objective over the medium run.  Nonetheless, a number of participants expressed concern that infla-tion was below the Commit tee’s target and stressed 
+that future price developments bore careful watching.  Most of the recent reports from business contacts re-vealed little upward pressure on prices or wages.  A couple of participants expressed the view that an addi-
+tional monetary policy response might be warranted 
+should inflation fall further.  It was also pointed out that, even absent further disinflation, continued low inflation might pose a threat to the economic recovery 
+by, for example, raising debt burdens.  One participant 
+focused instead on the upside risks to inflation over the longer term resulting from highly accommodative monetary policy.   
+Financial conditions appeared to have eased further 
+over the intermeeting period:  Longer-term interest rates declined significantly, banks loosened their C&I lending terms and standard s on balance, and competi-
+tion to make commercial and auto loans was strong.  Businesses were reportedly st ill borrowing to refinance, 
+but they had begun to take out more new loans as well.  While the Committee’s accommodative policy contin-
+ued to provide support to financial conditions, events 
+Page 6
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ 
+ abroad also influenced U.S. markets over the intermeet-
+ing period.  In particular, the Bank of Japan announced 
+a new monetary policy program that was considerably 
+more expansionary than markets had expected.  Finan-cial conditions in Europe improved somewhat over the period, but some participants still saw the situation in 
+Europe as posing downside risks to U.S. growth.  At 
+this meeting, a few participants expressed concern that conditions in certain U.S. financial markets were be-coming too buoyant, pointing to the elevated issuance 
+of bonds by lower-credit-quality firms or of bonds with 
+fewer restrictions on collateral and payment terms (so-called covenant-lite bonds).  One participant cautioned that the emergence of financial imbalances could prove 
+difficult for regulators to identify and address, and that 
+it would be appropriate to adjust monetary policy to help guard against risks to financial stability.     
+In discussing the effects of  the Committee’s asset pur-
+chases, several participants pointed to the improvement 
+in interest-sensitive sectors,  such as consumer durables 
+and housing, over the recent period as evidence that the purchases were having positive results for the 
+economy.  The effects on a range of asset prices of the 
+Bank of Japan’s recent announcement were cited as added evidence that large-scale asset purchases were effective in easing financial conditions and thereby 
+helping stimulate economic activity.  In evaluating the 
+prospects for benefits from asset purchases, however, one participant viewed uncertainty about U.S. fiscal and regulatory policies as interfering with the transmission 
+of monetary policy and as preventing asset purchases 
+from having a meaningful effect on the real economy.   
+Participants also touched on the conditions under 
+which it might be appropriate to change the pace of 
+asset purchases.  Most observed that the outlook for 
+the labor market had shown progress since the pro-gram was started in September, but many of these par-ticipants indicated that continued progress, more con-
+fidence in the outlook, or diminished downside risks 
+would be required before slowing the pace of purchas-es would become appropriate.  A number of partici-pants expressed willingness to adjust the flow of pur-
+chases downward as early as the June meeting if the 
+economic information received by that time showed evidence of sufficiently st rong and sustained growth; 
+however, views differed about what evidence would be 
+necessary and the likelihood of that outcome.  One 
+participant preferred to begin decreasing the rate of purchases immediately, while another participant pre-ferred to add more monetary accommodation at the 
+current meeting and mentioned that the Committee had several other tools it could potentially use to do so.  
+Most participants emphasized that it was important for 
+the Committee to be prepared to adjust the pace of its 
+purchases up or down as needed to align the degree of policy accommodation with changes in the outlook for the labor market and inflation as well as the extent of 
+progress toward the Committee’s economic objectives.  
+Regarding the composition of purchases, one partici-pant expressed the view that, in light of the substantial improvement in the housing market and to avoid fur-
+ther credit allocation across sectors of the economy, 
+the Committee should start to shift any asset purchases away from MBS and toward Treasury securities.  
+Committee Policy Action  
+Committee members saw the information received 
+over the intermeeting period as suggesting that eco-nomic activity had been expanding at a moderate pace.  Labor market conditions had shown some improve-
+ment in recent months, on balance, but the unemploy-
+ment rate remained elevated.  Household spending and business fixed investment advanced, and the housing sector had strengthened further, but fiscal policy was 
+restraining economic growth.  The Committee ex-
+pected that, with appropriate monetary policy accom-modation, economic growth would proceed at a mod-erate pace and result in a gradual decline in the unem-
+ployment rate toward levels that the Committee judged 
+consistent with its dual mandate.  Members generally continued to anticipate that, with longer-term inflation expectations stable and persisting slack in resource uti-
+lization, inflation over the medium term would likely 
+run at or below the Committee’s 2 percent objective. 
+In their discussion of monetary policy for the period 
+ahead, all but one member judged that a highly ac-
+commodative stance of monetary policy was warranted 
+in order to foster a stronger economic recovery in a context of price stability.  The Committee agreed to continue purchases of MBS at a pace of $40 billion per 
+month and purchases of longer-term Treasury securi-
+ties at a pace of $45 billion per month, as well as to maintain the Committee’s reinvestment policies.  The Committee also retained its forward guidance about the 
+federal funds rate, including the thresholds on the un-
+employment and inflation rates.  One member dissent-ed from the Committee’s policy decision, expressing concern that the continued high level of monetary ac-
+commodation increased the risks of future economic 
+and financial imbalances and, over time, could cause an increase in inflation expectations. 
+Minutes of the Meeting of April 30–May 1, 2013
+Page 7
+_____________________________________________________________________________________________
+ 
+ 
+ A few members expressed concerns that investor ex-
+pectations of the cumulative size of the asset purchase 
+program appeared to have increased somewhat since it 
+was launched last Septembe r despite a notable decline 
+in the unemployment rate and other improvements in the labor market since then.  In contrast, a few other 
+members focused on evidence that market expectations 
+about the total size of the program had changed little, on net, since the program was launched or had re-sponded appropriately to incoming information.  
+Members generally agreed on the need for the Commit-
+tee to communicate clearly that the pace and ultimate size of its asset purchases would depend on the Com-mittee’s continued assessmen t of the outlook for the 
+labor market and inflation in addition to its judgments regarding the efficacy and costs of additional purchases and the extent of progress toward its economic objec-tives.  To highlight its willingness to adjust the flow of 
+purchases in light of incoming information, the Com-
+mittee included language in the statement to be released following the meeting that said the Committee was prepared to increase or reduce the pace of its purchases 
+to maintain appropriate policy accommodation as the 
+outlook for the labor market or inflation changes. 
+At the conclusion of the discussion, the Committee 
+voted to authorize and direct  the Federal Reserve Bank 
+of New York, until it was instructed otherwise, to exe-cute transactions in the System Account in accordance with the following domestic policy directive: 
+“Consistent with its statutory mandate, the 
+Federal Open Market Committee seeks 
+monetary and financial conditions that will 
+foster maximum employment and price sta-bility. In particular, the Committee seeks 
+conditions in reserve markets consistent 
+with federal funds trading in a range from   0 to ¼ percent. The Committee directs the Desk to undertake open market operations 
+as necessary to maintain such conditions. 
+The Desk is directed to continue purchasing longer-term Treasury securities at a pace of about $45 billion per month and to contin-
+ue purchasing agency mortgage-backed se-
+curities at a pace of about $40 billion per month. The Committee also directs the Desk to engage in dollar roll and coupon 
+swap transactions as necessary to facilitate 
+settlement of the Federal Reserve’s agency mortgage-backed securities transactions. The Committee directs the Desk to main-
+tain its policy of rolling over maturing Treasury securities into new issues and its 
+policy of reinvesting principal payments on 
+all agency debt and agency mortgage-backed 
+securities in agency mortgage-backed securi-ties. The System Open Market Account Manager and the Secretary will keep the 
+Committee informed of ongoing develop-
+ments regarding the System’s balance sheet that could affect the attainment over time of the Committee’s objectives of maximum 
+employment and price stability.” 
+The vote encompassed approval of the statement be-
+low to be released at 2:00 p.m.: 
+“Information received since the Federal 
+Open Market Committee met in March 
+suggests that economic activity has been expanding at a moderate pace.  Labor mar-ket conditions have shown some improve-
+ment in recent months, on balance, but the 
+unemployment rate remains elevated.  Household spending and business fixed in-vestment advanced, and the housing sector 
+has strengthened further, but fiscal policy is 
+restraining economic growth.  Inflation has been running somewhat below the Commit-tee’s longer-run objective, apart from tem-
+porary variations that largely reflect fluctua-
+tions in energy prices.  Longer-term infla-tion expectations have remained stable. 
+Consistent with its statutory mandate, the 
+Committee seeks to foster maximum em-
+ployment and price stability.  The Commit-tee expects that, with appropriate policy ac-commodation, economic growth will pro-
+ceed at a moderate pace and the unem-
+ployment rate will grad ually decline toward 
+levels the Committee judges consistent with its dual mandate.  The Committee continues 
+to see downside risks to the economic out-
+look.  The Committee also anticipates that inflation over the medium term likely will run at or below its 2 percent objective. 
+To support a stronger economic recovery 
+and to help ensure that inflation, over time, is at the rate most consistent with its dual mandate, the Committee decided to contin-
+ue purchasing additional agency mortgage-
+backed securities at a pace of $40 billion per month and longer-term Treasury securities at a pace of $45 billion per month.  The 
+Page 8
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ 
+ Committee is maintaining its existing policy 
+of reinvesting principal payments from its 
+holdings of agency debt and agency     
+mortgage-backed securities in agency   mortgage-backed securities and of rolling over maturing Treasury securities at auction.  
+Taken together, these actions should main-
+tain downward pressure on longer-term in-terest rates, support mortgage markets, and help to make broader financial conditions 
+more accommodative. 
+The Committee will closely monitor incom-
+ing information on economic and financial developments in coming months.  The 
+Committee will continue its purchases of 
+Treasury and agency mortgage-backed secu-rities, and employ its other policy tools as appropriate, until the outlook for the labor 
+market has improved substantially in a con-
+text of price stability.  The Committee is prepared to increase or reduce the pace of its purchases to maintain appropriate policy 
+accommodation as the outlook for the labor 
+market or inflation changes.  In determining the size, pace, and composition of its asset purchases, the Committee will continue to 
+take appropriate account of the likely effica-
+cy and costs of such purchases as well as the extent of progress toward its economic ob-jectives. 
+To support continued progress toward 
+maximum employment and price stability, the Committee expects that a highly ac-commodative stance of monetary policy will 
+remain appropriate for a considerable time 
+after the asset purchase program ends and the economic recovery strengthens.  In par-ticular, the Committee decided to keep the 
+target range for the federal funds rate at 0 to 
+¼ percent and currently anticipates that this exceptionally low ra nge for the federal 
+funds rate will be appropriate at least as 
+long as the unemployment rate remains 
+above 6½ percent, inflation between one and two years ahead is projected to be no more than a half percentage point above the 
+Committee’s 2 percent longer-run goal, and 
+longer-term inflation expectations continue to be well anchored.  In determining how long to maintain a highly accommodative 
+stance of monetary policy, the Committee will also consider other information, includ-
+ing additional measures of labor market 
+conditions, indicators of inflation pressures 
+and inflation expectations, and readings on financial developments.  When the Com-mittee decides to begin to remove policy 
+accommodation, it will take a balanced ap-
+proach consistent with its longer-run goals of maximum employment and inflation of  2 percent.” 
+Voting for this action:   Ben Bernanke, William C. 
+Dudley, James Bullard, Elizabeth Duke, Charles L. Ev-ans, Jerome H. Powell, Sarah Bloom Raskin, Eric Rosengren, Jeremy C. Stein, Daniel K. Tarullo, and 
+Janet L. Yellen. 
+Voting against this action:  Esther L. George. 
+Ms. George dissented because she continued to view 
+monetary policy as overly accommodative and there-
+fore as posing risks to the long-term sustainable growth 
+of the economy.  She expressed concern that the stance of policy might be fostering imbalances and excessive risk-taking in some financial markets and institutions, 
+and she cited the potential for the Committee’s ongo-
+ing asset purchases to complicate the future conduct of policy, raise uncertainty, and affect future inflation ex-pectations.  Accordingly, Ms. George preferred to sig-
+nal a near-term tapering of asset purchases, which 
+would begin to move policy toward a more appropriate stance. 
+Review of Exit Strategy Principles 
+After the policy vote, participants began a review of the 
+exit strategy principles that were published in the minutes of the Committee’s June 2011 meeting.  Those principles, which the Committee issued to clarify how it 
+intended to normalize the stance and conduct of mone-
+tary policy when doing so eventually became appropri-ate, included broad principles along with some details about the timing and sequence of specific steps the 
+Committee expected to take.  The participants’ discus-
+sion touched on various aspects of the exit strategy principles and policy normalization more generally, including the size and composition of the SOMA port-
+folio in the longer run, the use of a range of reserve-
+draining tools, the approach to sales of securities, the eventual framework for policy implementation, and the relationship between the principles and the economic 
+thresholds in the Committee’s forward guidance on the 
+federal funds rate.  The broad principles adopted al-most two years ago appeared  generally still valid, but 
+developments since then—including the change in the 
+Minutes of the Meeting of April 30–May 1, 2013
+Page 9
+_____________________________________________________________________________________________
+ 
+ 
+ size and composition of SOMA asset holdings—
+suggested a need for greater flexibility regarding the 
+details of implementing policy normalization, particu-
+larly because those details would appropriately depend at least in part upon future economic and financial de-velopments.  Also, because normalization still appeared 
+to be well in the future, the Committee might wish to wait and acquire additional experience to inform its plans.  In particular, the process of normalizing policy could yield information about the most effective 
+framework for implementing monetary policy in the 
+longer run, and thus about the appropriate size of the SOMA portfolio and level of reserve balances.  In addi-tion, several participants ra ised the possibility that the 
+federal funds rate might not, in the future, be the best indicator of the general level of short-term interest rates, and supported further staff study of potential alternative approaches to implementing monetary poli-
+cy in the longer term and of possible new tools to im-
+prove control over short-term interest rates.   
+Views differed regarding whether the best course at this 
+point would be to simply acknowledge that certain 
+components of the June 2011 principles had been over-
+taken by events or rather to formally revise the princi-ples.  Acknowledging that the principles need to be updated would help avoid possible confusion regarding 
+the Committee’s intentions; waiting to update the prin-
+ciples would allow the Committee to obtain additional information before revising them.  It was also men-tioned that the public’s understanding of the likely exit 
+process might not be improved if the Committee is-
+sued only a set of broad principles without providing detailed information on the steps anticipated for normalization.  However, issuing revised principles rela-tively soon could give the public additional confidence 
+that the Committee had the tools and a plan for even-
+tually normalizing the conduct of policy.  Moreover, one participant stressed that the Committee’s ability to 
+provide forward guidance about the normalization pro-
+cess was a key monetary policy tool, and revised princi-
+ples would permit use of that tool to help adjust the stance of policy.  Participants emphasized that their review of the June 2011 exit strategy principles did not 
+suggest any change in their views about the economic 
+conditions that would eventually warrant beginning the process of normalizing the stance of monetary policy.  At the conclusion of the discussion, the Chairman di-
+rected the staff to undertake additional preparatory 
+work on this issue for Committee consideration in the future. 
+It was agreed that the next meeting of the Committee 
+would be held on Tuesday–Wednesday, June 18–19, 
+2013.  The meeting adjourned at 1:05 p.m. on May 1, 2013. 
+Notation Vote 
+By notation vote comple ted on April 9, 2013, the 
+Committee unanimously appr oved the minutes of the 
+FOMC meeting held on March 19–20, 2013. 
+  
+ 
+_____________________________ 
+William B. English 
+Secretary
+ 
+ 
+Page 10
+Federal Open Market Committee
+_____________________________________________________________________________________________

@@ -1,0 +1,1749 @@
+ 
+ Minutes of the Federal Open Market Committee 
+June 9–10, 2020 
+ 
+A joint meeting of the Fede ral Open Market Committee 
+and the Board of Governors was held by 
+videoconference on Tuesday, June 9, 2020, at 10:00 a.m. 
+and continued on Wednesday, June 10, 2020, at 9:00 a.m.
+1 
+ 
+PRESENT: 
+Jerome H. Powell, Chair 
+John C. Williams, Vice Chair Michelle W. Bowman 
+Lael Brainard 
+Richard H. Clarida Patrick Harker Robert S. Kaplan 
+Neel Kashkari 
+Loretta J. Mester Randal K. Quarles 
+ 
+Thomas I. Barkin, Raphael W. Bostic, Mary C. Daly, 
+Charles L. Evans, and Michael Strine, Alternate 
+Members of the Federal Open Market Committee 
+ 
+James Bullard, Esther L. George, and Eric Rosengren, 
+Presidents of the Federal Reserve Banks of St. 
+Louis, Kansas City, and Boston, respectively 
+ 
+James A. Clouse, Secretary 
+Matthew M. Luecke, Deputy Secretary Michelle A. Smith, Assistant Secretary Mark E. Van Der Weide, General Counsel 
+Michael Held, Deputy General Counsel 
+Thomas Laubach, Economist Stacey Tevlin, Economist Beth Anne Wilson, Economist 
+ 
+Shaghil Ahmed, Marc Giannoni, Trevor A. Reeve, 
+William Wascher, and Mark L.J. Wright, Associate Economists 
+ Lorie K. Logan, Manager, System Open Market 
+Account 
+ 
+                                                            
+1 The Federal Open Market Committee is referenced as the 
+“FOMC” and the “Committee” in these minutes. 
+2 Attended through the discussion of developments in finan-
+cial markets and open market operations. Ann E. Misback, Secretary, Office of the Secretary, 
+Board of Governors 
+ 
+Matthew J. Eichner,2 Director, Division of Reserve 
+Bank Operations and Payment Systems, Board of Governors; Michael S. Gibson, Director, Division 
+of Supervision and Regulation, Board of 
+Governors; Andreas Lehner t, Director, Division of 
+Financial Stability, Board of Governors 
+ 
+Rochelle M. Edge, Deputy Director, Division of 
+Monetary Affairs, Board of Governors; Michael T. 
+Kiley, Deputy Director, Division of Financial Stability, Board of Governors 
+ Jon Faust, Senior Special Adviser to the Chair, Office 
+of Board Members, Board of Governors 
+ 
+Joshua Gallin, Special Adviser to the Chair, Office of 
+Board Members, Board of Governors 
+ 
+William F. Bassett, Antulio N. Bomfim, Wendy E. 
+Dunn, Ellen E. Meade, Chiara Scotti, and Ivan Vidangos, Special Advisers to the Board, Office of Board Members, Board of Governors 
+ 
+Linda Robertson, Assistant to the Board, Office of 
+Board Members, Board of Governors 
+ 
+Brian M. Doyle,
+3 Senior Associate Director, Division of 
+International Finance, Board of Governors; Eric M. Engen, Senior Associate Director, Division of Research and Statistics, Board of Governors 
+ 
+Edward Nelson
+4 and Robert J. Tetlow, Senior Advisers, 
+Division of Monetary Affairs, Board of Governors; 
+Jeremy B. Rudd, Senior Adviser, Division of Research and Statistics, Board of Governors 
+ Sally Davies, Associate Director, Division of 
+International Finance, Board of Governors; David López-Salido, Associate Director, Division of 
+Monetary Affairs, Board of Governors 
+3 Attended through the discu ssion of economic developments 
+and the outlook, and all of Wednesday’s session. 
+4 Attended through the discussi on of forward guidance, asset 
+purchases, and yield caps or targets. 
+Page 1
+_____________________________________________________________________________________________
+ 
+ Burcu Duygan-Bump, Andrew Figura, Shane M. 
+Sherlund, and Paul A. Smith, Deputy Associate 
+Directors, Division of Research and Statistics, 
+Board of Governors; Jeffrey D. Walker,2 Deputy 
+Associate Director, Division of Reserve Bank Operations and Payment Systems, Board of 
+Governors; Paul R. Wood,
+4 Deputy Associate 
+Director, Division of International Finance, Board 
+of Governors 
+ 
+Brian J. Bonis, Etienne Gagnon, and Zeynep Senyuz, 
+Assistant Directors, Division of Monetary Affairs, 
+Board of Governors 
+ 
+Matthias Paustian,4 Assistant Director and Chief, 
+Division of Research and Statistics, Board of 
+Governors 
+ 
+Penelope A. Beattie,5 Section Chief, Office of the 
+Secretary, Board of Governors; Dana L. Burnett, 
+Section Chief, Division of Monetary Affairs, Board of Governors; Dario Caldara,
+6 Section Chief, 
+Division of International Finance, Board of Governors 
+ Mark A. Carlson, Senior Economic Project Manager, 
+Division of Monetary Affairs, Board of Governors; Canlin Li,
+4 Senior Economic Project Manager, 
+Division of International Finance, Board of Governors 
+ David H. Small, Project Manager, Division of 
+Monetary Affairs, Board of Governors 
+ 
+Hess T. Chung,
+4 Group Manager, Division of Research 
+and Statistics, Board of Governors 
+ 
+Michele Cavallo, Bernd Schlusche,4 and Mary Tian, 
+Principal Economists, Division of Monetary Affairs, Board of Governors; Maria Otoo, Principal Economist, Division of Research and Statistics, Board of Governors 
+ Sriya Anbil,
+4 Erin E. Ferris, and Fabian Winkler, Senior 
+Economists, Division of Monetary Affairs, Board of Governors; David S. Miller,
+4 Senior Economist, 
+Division of Research and Statistics, Board of Governors; Gast on Navarro, Senior Economist, 
+                                                            
+5 Attended through the discu ssion of economic developments 
+and the outlook. Division of International Finance, Board of Governors 
+ Randall A. Williams, Senior Information Manager, 
+Division of Monetary Affairs, Board of Governors 
+ 
+James Hebden
+4 and James M. Trevino,4 Senior 
+Technology Analysts, Division of Monetary 
+Affairs, Board of Governors 
+ 
+Andre Anderson, First Vice President, Federal Reserve 
+Bank of Atlanta 
+ 
+David Altig, Joseph W. Grub er, Anna Paulson, Daleep 
+Singh, and Christopher J. Waller, Executive Vice Presidents, Federal Reserve Banks of Atlanta, Kansas City, Chicago, New York, and St. Louis, respectively 
+ Edward S. Knotek II, Paolo A. Pesenti, Julie Ann 
+Remache,
+2 Samuel Schulhofer-Wohl,2 Robert G. 
+Valletta, and Nathaniel Wuerffel,2 Senior Vice 
+Presidents, Federal Reserve Banks of Cleveland, New York, New York, Chicago, San Francisco, and New York, respectively 
+ 
+Roc Armenter, Matthew D. Raskin,
+2 and Patricia 
+Zobel, Vice Presidents, Federal Reserve Banks of 
+Philadelphia, New York, and New York, respectively 
+ Robert Lerman,
+2 Assistant Vice President, Federal 
+Reserve Bank of New York 
+ 
+Daniel Cooper and John A. Weinberg, Senior 
+Economists and Policy Advisors, Federal Reserve 
+Banks of Boston and Richmond, respectively 
+ 
+The Chair opened the meeting with an acknowledgment 
+of the extraordinary and deeply troubling events of the last two weeks.  Injustice, prejudice, and the callous dis-regard for life had led to soci al unrest and a sense of des-
+pair.  The Chair noted that it was incumbent upon the leaders of the Federal Reserv e System to continue to 
+communicate with force and clarity about the Federal Reserve’s core values, and to reaffirm its unflinching 
+commitment to those values in pursuing the Federal Re-
+serve’s mandated goals.  In that spirit, the Chair noted 
+that he intended to offer the following remarks at the 
+6 Attended from the discussi on of economic developments 
+and the outlook through the end of Tuesday’s session. 
+Page 2
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ end of the postmeeting press conference.  All partici-
+pants supported the statement affirming the Federal Re-
+serve’s core values and its commitment to do everything 
+it can to foster racial equali ty as well as diversity and in-
+clusion both within the Federal Reserve System and in society more broadly. 
+I want to acknowledge the tragic events that have again put a spotlight on the pain of racial injustice in this country.  The Federal Reserve serves the entire nation.  We operate in, and are 
+part of, many of the communities across the 
+country where Americans are grappling with and expressing themselves on issues of racial equality. 
+I speak for my colleagues throughout the Fed-
+eral Reserve System when I say that there is no place at the Federal Reserve for racism, and there should be no place for it in our society.  
+Everyone deserves the opportunity to partici-
+pate fully in our society and in our economy. 
+These foundational principles guide us in all we 
+do, from monetary policy to our focus on diver-
+sity and inclusion in our workplace, and to our 
+work regulating and supervising banks to ensure fair access to credit around the country.  We will take this opportunity to renew our steadfast 
+commitment to these principles, making sure 
+that we are playing our part.   
+We understand that the work of the Federal Re-
+serve touches communities, families, and busi-
+nesses across the country.  Everything we do is 
+in service to our public mission.  We are com-mitted to using our full range of tools to support the economy and to help assure that the recov-
+ery from this difficult period will be as robust as 
+possible. 
+Discussion of Forward Guidance, Asset Purchases, and Yield Curve Caps or Targets  
+Participants discussed tools for conducting monetary policy when the federal funds r ate is at its effective lower 
+bound (ELB).  The discussion addressed two topics: (1) the roles of forward guidance and large-scale asset 
+purchase programs in supporting the attainment of the 
+Committee’s maximum-emplo yment and price-stability 
+goals and (2) in light of the foreign and historical expe-rience with approaches that cap or target interest rates 
+along the yield curve, whether such approaches could be 
+used to support forward guidance and complement asset purchase programs.  The staff briefing on the first topic focused on outcome-based forward guidance for the federal funds rate—which ties changes in the target 
+range for the federal funds rate to the achievement of 
+specified macroeconomic outcomes, such as reaching a given level of the unemployment rate or inflation—and asset purchase programs of the kind used during and fol-
+lowing the previous recession.  The staff presented re-
+sults from model simulations that suggested that for-ward guidance and large-scale asset purchases can help support the labor market recovery and the return of in-
+flation to the Committee’s symmetric 2 percent inflation 
+goal.  The simulations suggested that the Committee would have to maintain highly accommodative financial conditions for many years to  quicken meaningfully the 
+recovery from the current severe downturn.  The brief-ing addressed factors that might alter the potency of for-ward guidance and asset purchase programs, along with a number of considerations for the design of these ac-
+tions.  The staff cautioned that businesses and house-
+holds might not be as forward looking as assumed in the model simulations, which could reduce the effectiveness of policies that are predicated on influencing expecta-
+tions about the path of policy several years into the fu-
+ture.  Alternatively, prompt and forceful policy actions by the Committee might help focus the public’s expec-tations around better outcomes or reduce perceived risks 
+of worst-case scenarios, wh ich could generate more im-
+mediate macroeconomic benefits than those featured in 
+the staff analysis.   
+The second staff briefing reviewed the yield caps or tar-
+gets (YCT) policies that the Federal Reserve followed 
+during and after World War II and that the Bank of Ja-pan and the Reserve Bank of Australia are currently em-ploying.  These three experiences illustrated different 
+types of YCT policies:  During World War II, the Fed-
+eral Reserve capped yields across the curve to keep Treasury borrowing costs lo w and stable; since 2016, the 
+Bank of Japan has targeted the 10-year yield to continue 
+to provide accommodation while limiting the potential 
+for an excessive flattening of the yield curve; and, since March 2020, the Reserve Bank of Australia has targeted the three-year yield, a target that is intended to reinforce 
+the bank’s forward guidance for its policy rate and to in-
+fluence funding rates across much of the Australian economy.  The staff noted th at these three experiences 
+suggested that credible YCT policies can control govern-
+ment bond yields, pass through to private rates, and, in the absence of exit considerations, may not require large central bank purchases of government debt.  But the staff also highlighted the potential for YCT policies to 
+require the central bank to  purchase very sizable 
+Minutes of the Meeting of June 9–10, 2020
+Page 3
+_____________________________________________________________________________________________
+ 
+ amounts of government debt under certain circum-
+stances—a potential that was realized in the U.S. experi-
+ence in the 1940s—and the po ssibility that, under YCT 
+policies, monetary policy goals might come in conflict 
+with public debt management goals, which could pose risks to the independence of the central bank.   
+In their discussion of forward guidance and large-scale 
+asset purchases, participants agreed that the Committee has had extensive experience with these tools, that they were effective in the wake of the previous recession, that 
+they have become key parts of the monetary policy 
+toolkit, and that, as a result, they have important roles to play in supporting the attainment of the Committee’s maximum-employment and price- stability goals.  Vari-
+ous participants noted that the economy is likely to need support from highly accommodative monetary policy for some time and that it will be important in coming months for the Committee to provide greater clarity re-
+garding the likely path of the federal funds rate and asset 
+purchases.  Participants generally indicated support for outcome-based forward guidance.  A number of partici-pants spoke favorably of forward guidance tied to infla-
+tion outcomes that could possibly entail a modest tem-
+porary overshooting of the Committee’s longer-run in-flation goal but where inflation fluctuations would be centered on 2 percent over time.  They saw this form of 
+forward guidance as helping re inforce the credibility of 
+the Committee’s symmetric 2 percent inflation objective 
+and potentially preventing a premature withdrawal of monetary policy accommodation.  A couple of partici-
+pants signaled a preference for forward guidance tied to 
+the unemployment rate, noting that it would be more credible to focus on labor market outcomes that have been achieved in the recent past or that—given how 
+high the unemployment rate currently is—such guidance 
+would clearly signal a high degree of accommodation for an extended period.  A few others suggested that  calendar-based guidance—which specifies a date beyond 
+which accommodation could start to be reduced—might 
+be at least as effective as outcome-based guidance.  They noted that calendar-based guidance had been very effec-tive when the Committee us ed it in 2011 and 2012 or 
+that it would be very challe nging to provide credible out-
+come-based guidance in light of the substantial uncer-tainty surrounding the current economic outlook.  Re-gardless of the specific form of forward guidance, a cou-
+ple of participants expressed the concern that policies 
+that effectively committed the Committee to maintain-ing very low interest rates for a long time could ulti-mately pose significant risks to financial stability.   Participants agreed that asset purchase programs can promote accommodative financial conditions by putting 
+downward pressure on term premiums and longer-term 
+yields.  Several participants remarked that declines in the neutral rate of interest and in term premiums over the 
+past decade and prevailing low levels of longer-term 
+yields would likely act as constraints on the effectiveness 
+of asset purchases in the current environment and noted that these constraints were not as acute when the Com-mittee implemented such programs in the wake of the 
+Global Financial Crisis.  These participants noted, how-
+ever, that large-scale asset purchases could still be bene-ficial under current circumstances by offsetting potential upward pressures on longer-term yields or by helping re-
+inforce the Committee’s commitment to maintaining 
+highly accommodative financial conditions.  A few par-ticipants questioned the desira bility of large-scale asset 
+purchases following the current purchases to support 
+market functioning, noting that they likely would lead to 
+a further considerable expansion of the Federal Re-serve’s balance sheet or have potentially adverse impli-cations for financial stability. 
+In their discussion of the foreign and historical experi-
+ence with YCT policies and the potential role for such policies in the United States, nearly all participants indi-cated that they had many questions regarding the costs 
+and benefits of such an approach.  Among the three ep-
+isodes discussed in the staff presentation, participants generally saw the Australian ex perience as most relevant 
+for current circumstances in the United States.  None-
+theless, many participants remarked that, as long as the 
+Committee’s forward guidance remained credible on its own, it was not clear that there would be a need for the Committee to reinforce its forward guidance with the 
+adoption of a YCT policy.  In addition, participants 
+raised a number of concerns  related to the implementa-
+tion of YCT policies, includ ing how to maintain control 
+of the size and composition of the Federal Reserve’s bal-
+ance sheet, particularly as the time to exit from such pol-
+icies nears; how to combine YCT policies—which at least in the Australian case incorporate aspects of date-based forward guidance—with the types of outcome-
+based forward guidance that many participants favored; 
+how to mitigate the risks that YCT policies pose to cen-tral bank independence; and how to assess the effects of these policies on financial market functioning and the 
+size and composition of private-sector balance sheets.  A 
+number of participants commented on additional chal-lenges associated with YCT policies focused on the longer portion of the yield curve, including how these 
+policies might interact with large-scale asset purchase 
+Page 4
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ programs and the extent of additional accommodation 
+they would provide in the current environment of very 
+low interest rates.  Some of these participants also noted 
+that longer-term yields are importantly influenced by factors such as longer-run inflation expectations and the longer-run neutral real interest rate and that changes in 
+these factors or difficulties in estimating them could re-
+sult in the central bank inadve rtently setting yield caps or 
+targets at inappropriate levels.  A couple of participants remarked that an appropriately designed YCT policy that 
+focused on the short-to-medium part of the yield curve 
+could serve as a powerful commitment device for the Committee.  These participants noted that, even if mar-ket participants currently expect the federal funds rate to 
+remain at its ELB through the medium term, the intro-
+duction of an effective YCT policy could help prevent those expectations from changing prematurely—as hap-pened during the previous recovery—or that the size of 
+a large-scale asset purchase program, which also poses 
+risks to central bank independence, could be reduced by an effective YCT policy.  All participants agreed that it would be useful for the staff to conduct further analysis 
+of the design and implementation of YCT policies as 
+well as of their likely economic and financial effects. 
+A number of participants emphasized that, when as-
+sessing the potential roles that different monetary policy 
+tools might play to support the attainment of the Com-
+mittee’s goals, it was important to think about how var-ious policy tools could be used in coordination as part of the Committee’s overall strategy to achieve its dual-
+mandate objectives.  In addition, various participants 
+noted that clear communications with the public are cen-tral to the efficacy of all policy tools and that, therefore, the Committee should complete its monetary policy 
+framework review in the near term, including revising 
+the Statement on Longer-Run Goals and Monetary Pol-icy Strategy.  Such a revised statement would communi-cate to the public how the Committee views its policy 
+goals and provide additional context to the Committee’s 
+policy actions. 
+Developments in Financial Markets and Open Mar-
+ket Operations  
+The System Open Market Account (SOMA) manager first discussed developments in financial markets over 
+the intermeeting period.  Risk asset prices were buoyed by optimism about the potential for increased economic 
+activity associated with reopenings as parts of the United 
+States and other countries rela xed lockdown restrictions.  
+That optimism was reinforced by high-frequency data suggesting a pickup in economic  activity.  Market partic-
+ipants also pointed to the suite of U.S. and global policy measures taken since mid-March as laying a foundation for the improvement in risk sentiment.  Against this 
+backdrop, staff analysis suggested that equity prices had 
+been supported by expectations for a strong rebound in earnings next year, low risk-free rates and positive risk sentiment.  Despite this impr ovement in risk sentiment, 
+market participants expected  weak overall growth in 
+2020, and elevated uncertain ties in the outlook re-
+mained.  The manager noted that prospects for adverse developments regarding the coronavirus (COVID-19) 
+and the potential for financia l strains to amplify reces-
+sionary dynamics, and geopolitical developments, in-
+cluding renewed U.S.–China tensions, presented near term risks to financial markets.  Market participants were 
+also attentive to the recent steepening in the Treasury 
+yield curve and noted a range of uncertainties in the out-look for longer-term rates. 
+Regarding expectations for monetary policy, respond-
+ents to the Open Market Trading Desk’s surveys sug-
+gested that most market participants did not anticipate policy changes at the June meeting. The target range for the federal funds rate was expected to remain at the ELB 
+for at least the next couple of years, although many sur-
+vey respondents attached some probability to the target range increasing in 2022.  Although the rates implied by federal funds futures contra cts settling next year had 
+fallen to slightly negative levels in May, survey respond-ents attached very little probability to the possibility of 
+negative policy rates.   
+The manager turned to a discussion of Federal Reserve 
+operations.  Credit facilities, some of which became op-
+erational over the period, generally experienced modest activity in light of broad improvements in credit market conditions.  New usage across many funding operations 
+and facilities had declined over the intermeeting period 
+as conditions in funding markets improved.  The man-ager noted that a significant proportion of amounts out-standing under U.S. dollar  liquidity swaps and repur-
+chase agreements (repo) reflected term transactions ini-tiated during the period of funding market strains.  In light of the improvement in funding market conditions, the manager noted that it might be appropriate to make 
+a modest adjustment to the minimum bid rates on repo 
+operations in the forthcoming calendar, which would ef-
+fectively position these operations in a backstop role.  These adjustments were not expected to have any signif-
+icant effects in short-term funding markets. 
+Finally, the manager discussed the near-term plans for 
+purchases of Treasury securities and agency mortgage-backed securities (MBS).  Overall, functioning in the 
+Minutes of the Meeting of June 9–10, 2020
+Page 5
+_____________________________________________________________________________________________
+ 
+ markets for these securities had improved substantially.  
+In light of these improvements, the Desk had gradually 
+reduced the pace of purchases over the intermeeting pe-
+riod, to their current levels of $4 billion per day in Treas-
+ury securities and $4.5 billion per day in agency MBS.  These purchase amounts were significantly lower than 
+the peak pace in mid-March and roughly corresponded 
+to monthly increases in SOMA holdings of approxi-mately $80 billion in Treasury securities and $40 billion in agency MBS.    Continuing to increase holdings at this 
+pace would likely help sustain the improvements in mar-
+ket functioning, and seemed to be roughly in line with market expectations for Treasury purchases, and toward the lower end of expectations for agency MBS pur-
+chases, net of reinvestments.  In addition, principal pay-
+ments from agency debt and agency MBS held in the SOMA portfolio could continue to be reinvested in agency MBS.  Weekly operations in agency commercial 
+mortgage-backed securities (CMBS) would also be con-
+ducted.  The Desk was prepared to increase the size or adjust the composition of Treasury, agency MBS and agency CMBS purchases as needed to sustain smooth 
+market functioning in the markets for these securities.  
+By unanimous vote, the Committee ratified the Desk’s 
+domestic transactions over the intermeeting period.  There were no intervention operations in foreign curren-
+cies for the System’s account during the intermeeting pe-riod. 
+Staff Review of the Economic Situation 
+The coronavirus outbreak and the measures undertaken 
+to contain its spread were severely disrupting economic 
+activity in the United States and abroad.  The available information for the June 9–10 meeting suggested that 
+U.S. real gross domestic product (GDP) would likely 
+post a historically large decline in the second quarter.  
+Labor market conditions improved in May, but these im-provements were modest relative to the substantial de-terioration seen over the previous two months.  Con-
+sumer price inflation, as measured by the 12-month per-
+centage change in the price index for personal consump-tion expenditures (PCE), slowed notably through April, reflecting the effects of both weak aggregate demand 
+and low energy prices. 
+Total nonfarm payroll employment expanded strongly in 
+May, though by much less than the historic job losses recorded in April.  The unemployment rate moved down 
+to 13.3 percent in May after soaring to 14.7 percent in 
+April.  As was highlighted by the Bureau of Labor Sta-
+tistics, these figures likely understated the extent of un-employment; accounting for the unusually large number of workers who reported themselves as employed but absent from their jobs would have raised the unemploy-
+ment rate by 5 percentage points in April and 3 percent-
+age points in May.  Both the labor force participation rate and the employment-to-population ratio increased in May.  Initial claims for unemployment insurance ben-
+efits had declined through the last week of May from 
+their peak in late March, but they still were at a histori-cally elevated level.  Average hourly earnings for all em-ployees declined in May after rising sharply in April, but 
+these fluctuations largely reflected the substantial 
+changes in the level and co mposition of employment, 
+which disproportionately affected lower-wage workers.  The employment cost index for total labor compensa-
+tion in the private sector increased 2.8 percent over the 
+12 months ending in March—a period mostly predating the onset of the pandemic—and was the same as its year-earlier pace. 
+Total PCE price inflation was only 0.5 percent over the 
+12 months ending in April, reflecting both weak aggre-gate demand in recent months and a considerable drop in consumer energy prices.  Prices fell in March and 
+April in many categories that were affected the most by 
+social-distancing measures, such as the prices for air travel and hotel accommodations.  Core PCE price in-flation, which excludes changes in consumer food and 
+energy prices, was 1.0 percent over the 12 months end-
+ing in April.  In contrast, the trimmed mean measure of 12-month PCE price inflation constructed by the Fed-eral Reserve Bank of Dallas was 1.9 percent in April.  
+The consumer price index (CPI) inched up 0.1 percent 
+over the 12 months ending in May, while core CPI infla-tion was 1.2 percent over the same period.  Recent read-ings on survey-based measures of longer-run inflation 
+expectations were little changed on balance.  The Uni-
+versity of Michigan Surveys of Consumers measure for the next 5 to 10 years edged up in May, while the 3-year-ahead measure from the Federal Reserve Bank of New 
+York’s Survey of Consumer Expectations was un-
+changed.  The 10-year measure for PCE price inflation from the Survey of Professional Forecasters ticked down in the second quarter.  All of  these measures of longer-
+run inflation expectations continued to be near their re-cent ranges. 
+Real PCE slumped in April, with declines widespread 
+across most spending categories.  In May, however, light 
+motor vehicle sales and some other high-frequency indi-
+cators of consumer spending turned up, but the levels of these indicators were mostly still below their levels early 
+in the year.  Real disposable personal income increased 
+significantly in April, as a marked decline in wage and 
+Page 6
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ s a l a r y  i n c o m e  w a s  m o r e  t h a n  o f f s e t  b y  a  s u b s t a n t i a l  
+boost from government transfer payments due to recent 
+fiscal policy support; as a result, the personal saving rate 
+soared.  The consumer sentiment measures from both the Michigan survey and the Conference Board survey crept up in May but remained below their levels early in 
+the year.   
+Real residential investment appeared to be weakening 
+significantly in the second quarter.  Starts and building permit issuance for single-family homes, along with 
+starts of multifamily units, dropped sharply in April.  
+Sales of existing homes contra cted markedly in April, al-
+though new home sales edged up. 
+Real business fixed investment continued to tumble in 
+the second quarter.  Nominal new orders and shipments 
+of nondefense capital goods excluding aircraft decreased considerably in April.  Nominal business spending for nonresidential structures outside of the drilling and min-
+ing sector also fell in April.  In addition, the effects of 
+low crude oil prices were evid ent in further declines in 
+the number of crude oil and natural gas rigs in operation through early June, an indicator of business spending on 
+structures in the drilling and mining sector. 
+Total industrial production plunged in April, as many 
+factories slowed or suspended operation in response to the coronavirus pandemic.  The decline in manufactur-
+ing production was widespre ad across all major indus-
+tries and was led by a collap se in the output of motor 
+vehicles and related parts.  Output in the mining sec-
+tor—which includes crude oil extraction—also de-
+creased, reflecting the effects of low crude oil prices.  
+Total real government purchases appeared to be rising 
+moderately in the second quarter.  Federal defense spending continued to increase in April, and nondefense 
+purchases were likely to be boosted in the second quar-
+ter by recent fiscal policy measures related to the coro-navirus.  In contrast, state and local purchases looked to be declining, as the payrolls of these governments shrank 
+in April and May, and nominal state and local construc-
+tion expenditures decreased in April.  
+The nominal U.S. international trade deficit widened in 
+both March and April, as exports of goods and services 
+plunged more than imports.  The fall in goods exports 
+was broad based, with particularly sharp declines in au-
+tomotive products, industrial supplies, and capital goods.  Goods imports also contracted significantly in 
+most categories through April, and a near halt of inter-
+national travel drove a steep decline in exports and im-ports of services.   Foreign economic activity cont racted in the first quarter, 
+even though most countries abroad introduced strict  
+social-distancing measures to contain the spread of the coronavirus only toward th e end of the quarter.  In 
+China, where restrictions were largely lifted by the end of the first quarter, data pointed to a relatively quick re-
+bound in economic activity in the second quarter.  Out-
+side of China, indicators suggested that foreign eco-nomic activity plummeted further in the second quarter, notwithstanding some signs of improvement in May as 
+restrictions started to ease.  Inflation rates fell sharply 
+across most foreign economie s in April and May.  The 
+low level of oil prices relative to a year ago contributed to 12-month inflation rates close to or below zero in 
+many advanced foreign economies (AFEs).   
+Staff Review of the Financial Situation 
+Over the intermeeting period, risk sentiment improved, on net, as optimism over reopening the economy, po-
+tential coronavirus treatments, the unexpectedly positive 
+May employment situation report, and other indicators that suggest that economic activity may be rebounding more than offset concerns arising from otherwise dire 
+economic data releases, warnings from health experts 
+that openings may have been premature, and renewed tensions between the United States and China.  Equity prices rose, and corporate bond spreads narrowed nota-
+bly.  The Treasury yield cu rve steepened, and the market-
+implied expected path of the federal funds rate declined somewhat.  Liquidity conditions continued to improve in general, but some stress  was still evident in several 
+markets.  Financing conditions were still somewhat strained for lower-rated borrowers and small businesses even as announcements and implementation of Federal Reserve facilities during the intermeeting period were 
+supportive of credit flows.  The credit quality of busi-
+nesses and municipal debt weakened. 
+The expected path of the federal funds rate for the next 
+few years, based on a straight read of overnight index 
+swap quotes, declined a bit and remained close to the 
+ELB through late 2023.  Market-implied forward rates referring to 2021 and 2022 turned  slightly negative for a 
+few days beginning on May 7, though market commen-
+tary suggested that this development did not reflect in-
+vestors expecting the FOMC to lower the federal funds rate target range below zero.  This view was supported by Federal Reserve communications that negative inter-
+est rates did not appear to be an attractive policy tool.   
+The Treasury yield curve steepened over the intermeet-
+ing period, with 2-year yields  little changed while 10- and 
+30-year yields rose.  Longer-term yields were likely 
+Minutes of the Meeting of June 9–10, 2020
+Page 7
+_____________________________________________________________________________________________
+ 
+ boosted by expectations of heavy upcoming Treasury se-
+curity issuance as well as so me unwinding of safe-haven 
+demands in connection with improved investor senti-ment.  The Treasury’s first 20-year bond offering since 1986 was met with solid demand .  Changes in inflation 
+compensation based on Treasury Inflation-Protected 
+Securities yields were mixed; 5-year inflation compensa-
+tion rose amid the recent partial rebound in crude oil prices, while the 5-to-10-year measure edged down.  At the end of the intermeeting period, both measures stood 
+roughly halfway between their mid-March lows and typ-
+ical levels seen in recent years.   
+Broad stock price indexes moved higher.  One-month 
+implied volatility on the S&P 500 index declined some-
+what but still stood at the 85th percentile of its distribu-
+tion since 1990.  Spreads on investment- and  speculative-grade corporate bonds over comparable- maturity Treasury yields narrowed considerably but re-
+mained at levels similar to those in other periods of no-
+table economic or bond market stress, though well be-low financial crisis levels. 
+Over the intermeeting period, financial market function-
+ing appeared to improve in general, although progress 
+was uneven.  Liquidity measures improved in the Treas-ury market, but off-the-run Treasury securities of all ten-ors and longer-maturity on-the-run securities remained 
+less liquid than before the onset of the pandemic.  
+Agency MBS market functioning had largely recovered, except for some less liquid parts of the market.  Corpo-rate bond market liquidity improved considerably but re-
+mained somewhat strained, particularly for speculative-
+grade bonds.  Liquidity in the municipal bond markets was still below pre-pandemic levels. 
+Conditions in unsecured s hort-term funding markets 
+continued to improve over the intermeeting period, and 
+spreads on most types of commercial paper and negotia-
+ble certificates of deposit narrowed to levels that ap-proached pre-pandemic ranges.  Amid better market 
+conditions, take-up in the em ergency liquidity facilities 
+declined substantially.  Heavy demand for Treasury bills 
+from money market funds held down rates despite an unprecedented pace of issuance.  The effective federal 
+funds rate was 5 basis points almost every day over the 
+intermeeting period, and the Secured Overnight Financ-ing Rate averaged 4 basis points.  Total outstanding Fed-eral Reserve repos averaged about $170 billion.  Amid 
+improving market functioning, Federal Reserve pur-
+chases of Treasury securities and agency MBS were re-duced from around $10 billion and $8 billion per day, respectively, to $4 billion and $4.5 billion per day, re-spectively, over the intermeeting period. 
+Risk sentiment in foreign financial markets improved 
+over the intermeeting period.  Further monetary policy and fiscal policy support in foreign countries, the easing of coronavirus-related restri ctions, and a stronger-than-
+expected U.S. May employment report outweighed con-cerns about otherwise weak global economic data and the resurgence of U.S.–China tensions.  Liquidity in global dollar funding markets continued to improve, 
+helped in part by the Federal Reserve’s liquidity pro-
+grams, and prices of foreign risky assets increased.  In the AFEs, option-implied volatility measures declined and long-term sovereign bond yields rose moderately, 
+while fiscal stimulus in Japan and Europe boosted prices 
+in their respective equity markets.  Euro-area peripheral bond spreads narrowed after the European Commission proposed that the European Union be given the author-
+ity to borrow €750 billion to a ssist the recovery and the 
+European Central Bank (ECB) increased the size of its 
+Pandemic Emergency Purchase Programme.  In emerg-ing markets, the rise in oil prices since late April and 
+overall improvements in investor sentiment boosted as-
+set prices, even as the corona virus outbreak worsened in 
+some countries.  Outflows from emerging market funds slowed and then turned into small inflows later in the 
+period. 
+The improving risk sentiment also supported several 
+foreign currencies, and the staff’s broad dollar index fell.  The euro appreciated notably over the period, lifted in 
+part by the European fiscal and monetary policy com-
+munications.  The recent rebound in oil prices contrib-uted to a strong appreciation of the Canadian dollar, the Brazilian real, and the Mexican peso.   
+Financing conditions for nonfinancial firms eased some-
+what over the intermeeting period, though they re-mained moderately strained for lower-rated borrowers.  
+Investment-grade corporate bond issuance soared to 
+record levels in April and rema ined robust in May, as is-
+suers took advantage of more favorable market condi-
+tions following Federal Reserve announcements of two facilities to support corporate credit markets.  Regarding 
+these facilities, the Secondar y Market Corporate Credit 
+Facility began in mid-May to purchase exchange-traded funds whose investment objective is to provide broad exposure to the market for U.S. corporate bonds.   
+Speculative-grade corporate bond issuance picked up 
+considerably toward the end of April from very low lev-
+els, though it slowed somewhat in May.  Commercial and industrial loans on banks’ books surged again in April, 
+Page 8
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ largely driven by lending through the Paycheck Protec-
+tion Program (PPP), especially at smaller banks.  Credit-
+line drawdowns continued in April and May, though 
+drawdowns by large firms slow ed considerably from rec-
+ord levels in March.   
+The credit quality of nonfinancial corporations contin-
+ued to deteriorate sharply during the intermeeting pe-
+riod.  The volume of nonfinancial corporate bond and leveraged loan downgrades re mained very high in April 
+and May.  Defaults in corporate bonds and leveraged 
+loans increased as well; market analysts projected de-
+faults to increase considerably over the remainder of 2020 and into 2021.   
+Financing conditions for small businesses tightened 
+amid widespread continued pandemic-related closures 
+and reduced operations of small businesses.  Lenders in-dicated that they had tightened loan standards on small business loans or discontinued lending to such borrow-
+ers altogether (other than PPP loans).  Financing condi-
+tions for state and local governments improved moder-
+ately following several Fede ral Reserve announcements 
+to support the municipal debt market, but conditions re-
+mained somewhat strained for lower-rated states and 
+municipalities.  In the first week of June, the State of Il-linois became the first to use the Municipal Liquidity Fa-cility.   
+Commercial real estate (CRE) lending conditions recov-
+ered somewhat during the intermeeting period.  Spreads on triple-A-rated and triple-B-rated non-agency CMBS declined in May but remained elevated relative to before 
+the pandemic, and issuance s howed signs of recovery in 
+late April and early May.  Federal Reserve purchases of agency CMBS reportedly helped return spreads on these securities to their pre-pandemic levels, and issuance in 
+that market continued to be strong.  However, early 
+signs of credit repayment difficulties emerged in some CRE sectors.   
+The volume of mortgage rate locks for home-purchase 
+loans picked up in mid-May following a material drop in 
+April.  Financing conditions remained tight for borrow-ers with relatively low credit scores and for those seeking nonconforming mortgages.  In addition, options for 
+home equity extraction continued to be restricted, as 
+credit for both home equity lines of credit and cash-out refinances was limited.  Servicers were able to handle the liquidity strains imposed by forbearance. 
+The sharp decline in economic activity had also curtailed 
+the demand for consumer credit.  On balance, consumer credit financing conditions did not appear to be a major drag on household spending.  Issuance of consumer  asset-backed securities resumed in mid-April and in early 
+May but remained significantly below pre-pandemic lev-
+els. 
+Staff Economic Outlook 
+The projection for the U.S.  economy prepared by the 
+staff for the June FOMC meeting was downgraded, on balance, as compared with the April meeting forecast in response to information on the spread of the corona-virus and changes in the measures undertaken to contain 
+it both at home and abroad, along with incoming eco-
+nomic data.  U.S. real GDP was forecast to show a his-torically large decline in the second quarter of this year, and the unemployment rate was expected to be sharply 
+higher than in the first quarter.  The substantial fiscal 
+policy measures and appreciable support from monetary policy, along with the Federal Reserve’s liquidity and lending facilities, were expected to help mitigate the de-
+terioration in current economic conditions and to help 
+boost the recovery.   
+The staff continued to judge that the future performance 
+of the economy would depend importantly on the evo-
+lution of the coronavirus outbreak and the measures un-
+dertaken to contain it.  Under the staff’s baseline as-sumptions that the current restrictions on social interac-tions and business operations would continue to ease 
+gradually this year, real GDP was forecast to rise appre-
+ciably and the unemployment rate to decline considera-bly in the second half of the year, although a complete recovery was not expected by year-end.  Inflation was 
+projected to weaken this year, reflecting both the deteri-
+oration in resource utilization and sizable expected de-clines in consumer energy prices.  Under the baseline as-sumptions, economic conditions were projected to con-
+tinue to improve, and inflation to pick back up, over the 
+next two years. 
+The staff still observed that th e uncertainty related to the 
+economic effects of the coronavirus pandemic was ex-
+tremely elevated and that the historical behavior of the 
+U.S. economy in response to past economic shocks pro-vided limited guidance for making judgments about how the economy might evolve in the future.  In light of the 
+significant uncertainty and downside risks associated 
+with the pandemic, including how much the economy 
+would weaken and how long it would take to recover, 
+the staff judged that a more pessimistic projection was 
+no less plausible than the baseline forecast.  In this sce-
+nario, a second wave of the coronavirus outbreak, with another round of strict limitations on social interactions and business operations, was a ssumed to begin later this 
+Minutes of the Meeting of June 9–10, 2020
+Page 9
+_____________________________________________________________________________________________
+ 
+ year, leading to a decrease in real GDP, a jump in the 
+unemployment rate, and re newed downward pressure 
+on inflation next year.  Compared with the baseline, the disruption to economic activity was more severe and protracted in this scenario, with real GDP and inflation lower and the unemployment rate higher by the end of 
+the medium-term projection. 
+Participants’ Views on Current Conditions and the 
+Economic Outlook In conjunction with this FOMC meeting, participants 
+submitted their projections of the most likely outcomes 
+for real GDP growth, the unemployment rate, and infla-tion for each year from 2020 through 2022 and over the longer run, based on their individual assessments of ap-
+propriate monetary policy—including the path for the 
+federal funds rate.  The longer-run projections repre-sented each participant’s assessment of the rate to which each variable would be expected to converge, over time, 
+under appropriate monetary policy and in the absence of 
+further shocks to the econo my.  These projections are 
+described in the Summary of Economic Projections, which is an addendum to these minutes. 
+Participants noted that the coronavirus outbreak was 
+causing tremendous human and economic hardship across the United States and around the world.  The vi-rus and the measures taken to protect public health in-
+duced sharp declines in economic activity and a surge in 
+job losses.  Weaker demand and significantly lower oil prices were holding down consumer price inflation.  Fi-nancial conditions had improved, in part reflecting pol-
+icy measures to support the economy and the flow of 
+credit to U.S. households and businesses.   
+Participants agreed that lowering the federal funds rate 
+to its ELB had established more accommodative finan-
+cial conditions and that the Federal Reserve’s ongoing 
+purchases of sizable quantities of Treasury securities and agency MBS had helped restore smooth market func-tioning to support the economy and the flow of credit 
+to U.S. households and businesses.  The fiscal response 
+to economic developments had been large and timely and was providing much needed support for economic activity.  Credit flows and economic activity were also 
+being supported by the lending facilities established un-
+der the authority of section 13(3) of the Federal Reserve Act with the approval of the Secretary of the Treasury. 
+Participants judged that the effects of the coronavirus 
+outbreak and the ongoing public health crisis will weigh 
+heavily on economic activity, employment, and inflation in the near term and would pose considerable risks to the economic outlook over the medium term.  Partici-pants agreed that the data for the second quarter would 
+likely show the largest decline in economic activity in 
+post–World War II history.  Based in part on infor-mation from their Districts, participants observed that the burdens of the present crisis were not falling equally 
+on all Americans and noted that the rise in joblessness 
+was especially severe for lower-wage workers, women, African Americans, and Hispan ics.  Participants agreed 
+that recently enacted fiscal policy programs had been de-
+livering valuable direct financial aid to households, busi-
+nesses, and communities, as well as providing relief to disadvantaged groups.   
+Regarding household spending, participants pointed to 
+information from District contacts, to surveys of con-
+sumer behavior, and to high-frequency indicators—such as credit card transactions, automated teller machine vis-its, and cellphone data trac king—as suggesting that con-
+sumer expenditures may be stabilizing or rebounding modestly.  Limited available sources of standard eco-nomic data, such as retail purchases and motor vehicle sales, also seemed in line with this impression.  With sup-
+portive monetary policy and payments to households 
+under the CARES Act (Coronavirus Aid, Relief, and Economic Security Act), including enhanced unemploy-ment insurance payments, participants expected per-
+sonal consumption expenditures to grow strongly in the 
+second half of the year, albeit from very low levels.  However, the recovery in c onsumer spending was not 
+expected to be particularly rapid beyond this year, with 
+voluntary social distancing, precautionary saving, and 
+lower levels of employment and income restraining the pace of expansion over the medium term. 
+Participants noted that levels of uncertainty and risks 
+perceived by businesses remained high and that these 
+factors continued to contribute to restraints on capital expenditures, despite easing in financing conditions stemming in part from recent policy measures.  Some 
+business contacts pointed to halting improvements in 
+consumer demand, a dearth in public infrastructure pro-jects due to strained state and local government budget conditions, or the decline in  energy prices as factors 
+likely to depress business spen ding.  Some participants 
+also noted reports of firms stating that they have had some challenges in rehiring employees, in part related to temporary enhanced unemployment insurance benefits.  
+Participants generally agreed that practices and develop-
+ments in public health to address the pandemic would be critical for ensuring a strong and lasting reopening of businesses and reducing the likelihood of an outsized 
+wave of closures, but monetary policy and, especially, 
+Page 10
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ fiscal policy would play important roles.  Nevertheless, 
+participants concluded that voluntary social distancing 
+and structural shifts stemming from the pandemic would 
+likely mean that some proportion of businesses would close permanently.  Noting ongoing changes in the com-position of production and the processes by which pro-
+duction takes place, participants suggested that some 
+business adaptations were likely to endure long after the coronavirus subsides, result ing in notable dislocation 
+and sectoral reallocation of firms and workers across in-
+dustries.    
+Participants noted that conditions in the energy sector 
+remained difficult amid still- low oil prices.  Several par-
+ticipants anticipated continued low drilling activity, at 
+least until excess inventories we re reduced later this year, 
+and expressed concern that a wave of bankruptcies in 
+the energy sector could be forthcoming.  In addition, the agricultural sector continued to be under stress due to 
+low prices for some farm commodities, reduced ethanol 
+production, and pandemic-related limitations on pro-duction for some food processing plants. 
+With regard to the labor market, participants remarked 
+on the surprisingly positive news from the labor market 
+report for May but emphasized that nearly 20 million jobs had been lost, on net, since February.  Participants noted that because of misclassification errors in the Cur-
+rent Population Survey, the official unemployment rate 
+for May likely understated the extent of unemployment; others observed that government reliance on unemploy-ment insurance as a vehicle for income support under 
+the CARES Act complicates the interpretation of the 
+data.  Participants also noted that unemployment insur-ance claims continued to run at a historically elevated level, but the proportion of laid-off workers who ex-
+pected to be recalled was unusually large.  Taken to-
+gether, the data suggested that April could turn out to be the trough of the recession, but participants agreed that it was too early to draw any firm conclusions.  
+Prospects for further substantial improvement in the la-
+bor market were seen as depending on a sustained reo-pening of the economy, which in turn depended in large part on the efficacy of health measures taken to limit the 
+effects of the coronavirus.  On this issue, participants 
+judged there to be a great deal of uncertainty and ex-
+pressed concerns about the possibility that an early reo-pening would contribute to a significant increase of in-
+fections.  Participants also regarded highly accommoda-
+tive monetary policy and sustained support from fiscal policy as likely to be needed to facilitate a durable recov-ery in labor market conditions.  Overall, participants ex-pected that a full recovery in employment would take 
+some time. 
+With regard to inflation, participants reiterated their 
+view that the negative effect from the pandemic on ag-gregate demand was likely to more than offset any up-
+ward pressure from supply constraints so that the overall 
+effect of the outbreak on prices was seen as disinflation-ary.  Consistent with that interpretation, participants ob-served the recent negative readings on the monthly CPI 
+and noted that they anticipated that the 12-month PCE 
+inflation measure would likely run well below the Com-mittee’s 2 percent objective for some time.  Observing that inflation had been running somewhat below the 
+Committee’s 2 percent longer-run objective before the 
+coronavirus outbreak, some participants noted a risk that long-term inflation expect ations might deteriorate.  
+Participants noted that a highly accommodative stance 
+of monetary policy would likely be needed for some time 
+to achieve the 2 percent in flation objective over the 
+longer run. 
+Participants commented that there remained an extraor-
+dinary amount of uncertainty and considerable risks to 
+the economic outlook.  Participants shared views on possible outcomes for the reopening of the economy, the prospects for effective voluntary social distancing, 
+and the efficacy of public health initiatives for their im-
+plications for economic activity and employment.  A number of participants judged that there was a substan-tial likelihood of additional waves of outbreaks, which, 
+in some scenarios, could re sult in further economic dis-
+ruptions and possibly a protracted period of reduced 
+economic activity.  Other possibilities included eco-nomic activity that might recover more quickly if sizable, 
+widespread outbreaks could be avoided even as house-
+holds and businesses relax or modify social-distancing behaviors.  Among the other sources of risk noted by participants were that fiscal support for households, 
+businesses, and state and local governments might prove 
+to be insufficient and that foreign economies could come under greater pressure than anticipated as a result of the spread of the pandemic abroad.  Participants 
+stressed that measures taken in the areas of health-care 
+policy and fiscal policy, together with actions by house-holds and businesses, would shape the prospects for a prompt and timely return of the U.S. economy to more 
+normal conditions.  In addition, participants agreed that 
+recent actions taken by the Federal Reserve had helped reduce risks to the economic outlook. 
+Minutes of the Meeting of June 9–10, 2020
+Page 11
+_____________________________________________________________________________________________
+ 
+ As part of their discussions of longer-run risks, partici-
+pants noted that in some adve rse scenarios, more busi-
+ness closures would occur, and workers would experi-ence longer spells of unemployment that could lead to a loss of skills that could impair their employment pro-spects.  In addition, to the extent that transmission- 
+mitigation procedures adopted by firms reduced their 
+productivity, or if the reallocation of industry output re-sulted in a lasting reductio n in business investment, the 
+longer-run level of potential output could be reduced. 
+Regarding developments in financial markets, partici-
+pants agreed that ongoing actions by the Federal Re-
+serve, including those undertaken in collaboration with the Treasury, had helped ease strains in some financial 
+markets and supported the flow of credit to households, 
+businesses, and communities.  Measures of market func-tioning in the markets for Tr easury securities and agency 
+MBS had improved substantially  since March.  Strains in 
+short-term funding markets had receded as well, and the volume of borrowing at many of the Federal Reserve’s liquidity facilities had moved lower as borrowers re-turned to market sources of  funding.  Risk spreads 
+across a range of fixed-income markets had narrowed as the intense flight to safety witnessed in financial markets in the spring ebbed further.  
+In their consideration of monetary policy at this meeting, 
+participants reaffirmed that the Federal Reserve was 
+committed to using its full range of tools to support the U.S. economy in this challe nging time, thereby promot-
+ing its maximum-employment an d price-stability goals.  
+In light of their assessment that the ongoing public health crisis would weigh heavily on economic activity, employment, and inflation in the near term and posed considerable risks to the economic outlook over the me-
+dium term, all participants judged that it would be ap-
+propriate to maintain the target range for the federal funds rate at 0 to ¼ percent.  Keeping the target range at the ELB would continue to provide support to the 
+economy and promote the Committee’s maximum- 
+employment and price-stability goals.  Participants also judged that it would be appropriate to maintain the tar-get range for the federal funds rate at its present level 
+until policymakers were confident that the economy had 
+weathered recent events and was on track to achieve the Committee’s maximum-emplo yment and price-stability 
+goals. 
+Participants also agreed that, to support the flow of 
+credit to households and businesses, over coming months it would be appropriate for the Federal Reserve to increase its holdings of Treasury securities and agency MBS and agency CMBS at least at the current pace to sustain smooth market functioning, thereby fostering ef-
+fective transmission of monetary policy to broader fi-
+nancial conditions.  In addition, the Desk would con-tinue to offer large-scale overnight and term repo oper-ations.  Participants noted that it would be important to 
+continue to monitor developments closely and that the 
+Committee would be prepared to adjust its plans as ap-propriate. 
+Participants also commente d that the lending facilities 
+established by the Federal Reserve under the authority 
+of section 13(3) of the Federal Reserve Act were sup-porting financial market functioning and the flow of credit to households, businesses of all sizes, and state 
+and local governments.  Seve ral participants commented 
+further that it would be important for the Federal Re-
+serve to remain ready to adjust these emergency lending facilities as appropriate based on its monitoring of finan-
+cial market functioning and credit conditions. 
+Participants agreed that the current stance of monetary 
+policy remained appropriate, but many noted that the Committee could, at upcoming meetings, further clarify 
+its intentions with respect to its future monetary policy 
+decisions as the economic outlook becomes clearer.  In 
+particular, most participants commented that the Com-mittee should communicate a more explicit form of for-
+ward guidance for the path of the federal funds rate and 
+provide more clarity regarding purchases of Treasury se-curities and agency MBS as more information about the trajectory of the economy becomes available.  A number 
+of participants judged that it was important for forward 
+guidance and asset purchases to be structured in a way that provides the accommodation necessary to support rapid economic recovery and fosters a durable return of 
+inflation and inflation expectations to levels consistent with the Committee’s symmetric 2 percent objective.  Many participants remarked that the completion of the monetary policy framework review, together with the 
+announcement of the conclusions arising from the re-
+view and the release of a revised Committee statement on its goals and policy strategy, would help clarify further how the Committee intends to conduct monetary policy 
+going forward.   
+Committee Policy Action  
+In their discussion of monetary policy for this meeting, members agreed that the coronavirus outbreak was caus-
+ing tremendous human and economic hardship across 
+the United States and around the world.  The virus and the measures taken to protect public health had induced sharp declines in economic activity and a surge in job 
+Page 12
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ losses.  Consumer price inflation was being held down 
+by weaker demand and significantly lower oil prices.  Fi-
+nancial conditions had improved, in part reflecting pol-
+icy measures to support the economy and the flow of credit to U.S. households, businesses, and communities.  Members agreed that the Federal Reserve was commit-
+ted to using its full range of tools to support the U.S. 
+economy in this challenging time, thereby promoting its maximum-employment and pr ice-stability goals.  
+Members further concurred that the ongoing public 
+health crisis would weigh heavily on economic activity, 
+employment, and inflation in the near term and posed considerable downside risks to the economic outlook over the medium term.  In light of these developments, 
+members decided to maintain the target range for the 
+federal funds rate at 0 to ¼ percent.  Members noted that they expected to maintain this target range until they were confident that the ec onomy had weathered recent 
+events and was on track to achieve the Committee’s maximum-employment and pr ice-stability goals.  
+Members agreed that they would continue to monitor the implications of incoming information for the eco-
+nomic outlook, including information related to public 
+health, as well as global developments and muted infla-tion pressures, and would us e the Committee’s tools and 
+act as appropriate to support the economy.  In determin-
+ing the timing and size of future adjustments to the 
+stance of monetary policy, members noted that they would assess realized and expected economic conditions relative to the Committee’s maximum-employment ob-
+jective and its symmetric 2 pe rcent inflation objective.  
+This assessment would take into account a wide range of 
+information, including measures of labor market condi-tions, indicators of inflation pressures and inflation ex-
+pectations, and readings on financial and international 
+developments.  
+To support the flow of credit to households and busi-
+nesses, members agreed that over coming months it 
+would be appropriate for the Federal Reserve to increase 
+its holdings of Treasury se curities and agency MBS and 
+agency CMBS at least at the current pace to sustain smooth market functioning, thereby fostering effective 
+transmission of monetary policy to broader financial 
+conditions.  In addition, the Desk would continue to of-fer large-scale overnight and term repo operations.  Members agreed that they would closely monitor devel-
+opments and be prepared to adjust their plans as appro-
+priate. 
+At the conclusion of the discussion, the Committee 
+voted to authorize and direct  the Federal Reserve Bank of New York, until instructed otherwise, to execute transactions in the SOMA in accordance with the fol-
+lowing domestic policy directive, for release at 2:00 p.m.: 
+“Effective June 11, 2020, the Federal Open 
+Market Committee directs the Desk to: 
+ Undertake open market operations as nec-essary to maintain the federal funds rate in a target range of 0 to ¼ percent. 
+ Increase the System Open Market Account holdings of Treasury securities, agency 
+mortgage-backed securities (MBS), and 
+agency commercial mortgage-backed secu-rities (CMBS) at least at the current pace to sustain smooth functi oning of markets for 
+these securities, thereby fostering effective transmission of monetary policy to broader financial conditions. 
+ Conduct term and overnight repurchase agreement operations to support effective policy implementation and the smooth 
+functioning of short-term U.S. dollar fund-
+ing markets. 
+ Conduct overnight reverse repurchase agreement operations at an offering rate of 0.00 percent and with a per-counterparty limit of $30 billion per day; the per-counter-
+party limit can be temporarily increased at 
+the discretion of the Chair. 
+ Roll over at auction all principal payments from the Federal Reserve’s holdings of Treasury securities and reinvest all principal 
+payments from the Federal Reserve’s hold-
+i n g s  o f  a g e n c y  d e b t  a n d  a g e n c y  M B S  i n  agency MBS and all principal payments from holdings of agency CMBS in agency 
+CMBS. 
+ Allow modest deviations from stated 
+amounts for purchases and reinvestments, if needed for operational reasons. 
+ Engage in dollar roll and coupon swap transactions as necessary  to facilitate settle-
+ment of the Federal Reserve’s agency MBS transactions.” 
+The vote also encompassed approval of the statement below for release at 2:00 p.m.: 
+“The Federal Reserve is committed to using its 
+full range of tools to support the U.S. economy 
+in this challenging time , thereby promoting its 
+maximum employment and price stability goals. 
+Minutes of the Meeting of June 9–10, 2020
+Page 13
+_____________________________________________________________________________________________
+ 
+ The coronavirus outbreak is causing tremen-
+dous human and economic hardship across the 
+United States and around  the world.  The virus 
+and the measures taken to protect public health 
+have induced sharp declines in economic activ-ity and a surge in job losses.  Weaker demand 
+and significantly lower oil prices are holding 
+down consumer price inflation.  Financial con-ditions have improved, in part reflecting policy measures to support the economy and the flow 
+of credit to U.S. households and businesses. 
+The ongoing public health crisis will weigh 
+heavily on economic activity, employment, and inflation in the near term, and poses considera-
+ble risks to the economic outlook over the me-
+dium term.  In light of these developments, the Committee decided to maintain the target range for the federal funds rate at 0 to ¼ percent.  The 
+Committee expects to maintain this target range 
+until it is confident that the economy has weath-ered recent events and is on track to achieve its maximum employment and price stability goals. 
+The Committee will contin ue to monitor the 
+implications of incoming information for the economic outlook, including information re-lated to public health, as well as global develop-
+ments and muted inflation pressures, and will 
+use its tools and act as appropriate to support the economy.  In determining the timing and size of future adjustment s to the stance of mon-
+etary policy, the Committee will assess realized and expected economic conditions relative to its maximum employment objective and its sym-metric 2 percent inflation objective.  This as-
+sessment will take into account a wide range of 
+information, including measures of labor mar-
+ket conditions, indicators of inflation pressures and inflation expectations, and readings on fi-
+nancial and international developments. 
+To support the flow of credit to households and 
+businesses, over  coming  months  the  Federal Reserve will increase its holdings of Treasury se-curities and agency residential and commercial 
+mortgage-backed securities at least at the cur-
+rent pace to sustain smooth market functioning, thereby fostering effective transmission of monetary policy to broader financial conditions.  
+In addition, the Open Market Desk will con-
+tinue to offer large-scale overnight and term re-purchase agreement operations.  The Commit-tee will closely monitor developments and is 
+prepared to adjust its plans as appropriate.” 
+Voting for this action:  Jerome H. Powell, John C. 
+Williams, Michelle W. Bowman, Lael Brainard, Richard 
+H. Clarida, Patrick Harker, Robert S. Kaplan, Neel 
+Kashkari, Loretta J. Mester, and Randal K. Quarles. 
+Voting against this action:  None. 
+Consistent with the Committee’s decision to leave the 
+target range for the federal funds rate unchanged, the 
+Board of Governors voted unanimously to leave the in-
+terest rates on required and excess reserve balances at 0.10 percent. The Board of Governors also voted unan-imously to approve establishment of the primary credit 
+rate at the existing level of 0.25 percent, effective 
+June 11, 2020. 
+It was agreed that the next meeting of the Committee 
+would be held on Tuesday–Wednesday, July 28–29, 
+2020. The meeting adjourned at 10:05 a.m. on June 10, 
+2020. 
+Notation Vote  
+By notation vote completed on May 19, 2020, the Com-
+mittee unanimously approved the minutes of the Com-
+mittee meeting held on April 28 –29, 2020. 
+  
+ 
+_______________________ 
+James A. Clouse 
+Secretary 
+Page 14
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+Summary of Economic Projections 
+In conjunction with the Federal Open Market Commit-
+tee (FOMC) meeting held on June 9–10, 2020, meeting participants submitted their projections of the most likely outcomes for real gross domestic product (GDP) 
+growth, the unemployment rate, and inflation for each 
+year from 2020 to 2022 and over the longer run.  Each participant’s projections were based on information available at the time of the meeting, together with his or 
+her assessment of appropriate monetary policy—includ-
+ing a path for the federal funds rate and its longer-run value—and assumptions about other factors likely to af-fect economic outcomes.  The longer-run projections 
+represent each participant’s assessment of the value to 
+which each variable would be expected to converge, over time, under appropriate monetary policy and in the ab-sence of further shocks to the economy.
+1  “Appropriate 
+monetary policy” is defined as the future path of policy that each participant deems most likely to foster out-comes for economic activity and inflation that best sat-isfy his or her individual interpretation of the statutory 
+mandate to promote maximum employment and price 
+stability. 
+The current projections for re al activity, the labor mar-
+ket, and inflation were substantially weaker than the pro-
+jections in the December 2019 Summary of Economic 
+Projections (SEP) because participants revised their eco-nomic outlook in light of the effects of the coronavirus (COVID-19) pandemic and the measures taken to con-
+tain it.
+2  Table 1 and figure 1 provide summary statistics 
+for the projections; participants’ projections in the cur-
+rent SEP reflected their assumptions about the course of the pandemic and actions to control its spread.  All par-
+ticipants projected that real GDP will contract sharply in 
+2020 and that the unemployment rate in the final quarter 
+of the year would be markedly higher than they had pro-
+jected in December.  Almost all participants projected 
+that real GDP would grow faster than their estimates of 
+its longer-run normal growth rate in 2021 and 2022 and that the unemployment rate would decline.  Participants expected that a full economic recovery would take some 
+time, with almost all participants projecting that the un-
+employment rate in the final quarter of 2022 would still be above their estimates of it s level in the longer run. 
+1 One participant did not submit longer-run projections for 
+real GDP growth, the unemployme nt rate, or the federal funds 
+rate. Similarly, almost all particip ants projected that total in-
+flation, as measured by the four-quarter percent change in the price index for personal consumption expendi-tures (PCE), would be below the FOMC’s 2 percent in-
+flation objective throughout the forecast period.  Projec-
+tions for core PCE inflation, which excludes food and energy, generally followed a tr ajectory similar to the pro-
+jections for total inflation.   
+As shown in figure 2, almost all participants indicated 
+that their expectations rega rding the evolution of the 
+economy, relative to the Committee’s objectives of max-imum employment and 2 perc ent inflation, would likely 
+warrant keeping the federal fu nds rate at its current level 
+through at least the end of 2022.  The median of partic-ipants’ assessments of the long er-run level for the federal 
+funds rate was unchanged from its value in the Decem-
+ber SEP. 
+Amid uncertainty about the course of the pandemic and 
+its effects on the economy, all participants regarded the uncertainties around their projections as higher than the 
+average over the past 20 years.  In addition, a substantial 
+majority of participants assessed the risks to their out-look for real GDP growth as weighted to the downside and the risks to their unemployment rate projections as 
+weighted to the upside.  The risks to inflation projections 
+were judged as weighted to the downside by a substantial majority of participants; no participant assessed the risks to his or her inflation outlook as weighted to the upside. 
+The Outlook for Real GDP Growth and the Unem-
+ployment Rate  
+As illustrated in figure 3.A, which shows the distribu-tions of participants’ projections for real GDP growth 
+from 2020 to 2022 and in the long er run, all participants 
+projected that real GDP will  decline in 2020, a develop-
+ment that reflects the coronavirus outbreak and the 
+measures undertaken to contain its spread.  The projec-
+tions ranged from a decline of 10.0 percent to a decline 
+of 4.2 percent, with the median projection being a de-crease of 6.5 percent.  These projections were substan-tially weaker than those from the December SEP when 
+real GDP was expected to expand this year at close to 
+participants’ estimates of its longer-run rate.  Current ex-
+2 The preceding SEP occurred in December 2019.  Because of 
+the extraordinary circumstances surrounding the March 2020 FOMC meeting, participants did not submit quarterly eco-
+nomic projections at that meeting. 
+Page 1
+_____________________________________________________________________________________________
+Table 1.
+Economic projections of Federal Reserve Board members and Federal Reserve Bank presidents,
+under their individual assumptions of projected appropriate monetary policy, June 2020
+Median1Central T
+endency2Range3
+2020 2021 2022 Longer
+run2020 2021 2022 Longer
+run2020 2021 2022 Longer
+run
+Change in real
+GDP -6.5 5.0 3.5 1.8 -7.6–-5.5 4.5–6.0 3.0–4.5 1.7–2.0 -10.0–-4.2 -1.0–7.0 2.0–6.0 1.6–2.2
+December projection 2.0 1.9 1.8 1.9 2.0–2.2 1.8–2.0 1.8–2.0 1.8–2.0 1.8–2.3 1.7–2.2 1.5–2.2 1.7–2.2
+Unemployment rate 9.3 6.5 5.5 4.1 9.0–10.0 5.9–7.5 4.8–6.1 4.0–4.3 7.0–14.0 4.5–12.0 4.0–8.0 3.5–4.7
+December projection 3.5 3.6 3.7 4.1 3.5–3.7 3.5–3.9 3.5–4.0 3.9–4.3 3.3–3.8 3.3–4.0 3.3–4.1 3.5–4.5
+PCE inﬂation 0.8 1.6 1.7 2.0 0.6–1.0 1.4–1.7 1.6–1.8 2.0 0.5–1.2 1.1–2.0 1.4–2.2 2.0
+December projection 1.9 2.0 2.0 2.0 1.8–1.9 2.0–2.1 2.0–2.2 2.0 1.7–2.1 1.8–2.3 1.8–2.2 2.0
+Core PCE inﬂation41.0 1.5 1.7 0.9–1.1 1.4–1.7 1.6–1.8 0.7–1.3 1.2–2.0 1.2–2.2
+December projection 1.9 2.0 2.0 1.9–2.0 2.0–2.1 2.0–2.2 1.7–2.1 1.8–2.3 1.8–2.2
+Memo: Projected
+appropriate
+policy path
+Federal funds rate 0.1 0.1 0.1 2.5 0.1 0.1 0.1 2.3–2.5 0.1 0.1 0.1–1.1 2.0–3.0
+December projection 1.6 1.9 2.1 2.5 1.6–1.9 1.6–2.1 1.9–2.6 2.4–2.8 1.6–1.9 1.6–2.4 1.6–2.9 2.0–3.3VariablePercen
+t
+Note: Projections of change in real gross domestic product (GDP) and projections for both measures of inﬂation are percent changes from the
+fourth quarter of the previous year to the fourth quarter of the year indicated. PCE inﬂation and core PCE inﬂation are the percentage rates of change
+in, respectively, the price index for personal consumption expenditures (PCE) and the price index for PCE excluding food and energy. Projections for
+the unemployment rate are for the average civilian unemployment rate in the fourth quarter of the year indicated. Each participant’s projections are
+based on his or her assessment of appropriate monetary policy. Longer-run projections represent each participant’s assessment of the rate to which each
+variable would be expected to converge under appropriate monetary policy and in the absence of further shocks to the economy. The projections for the
+federal funds rate are the value of the midpoint of the projected appropriate target range for the federal funds rate or the projected appropriate target
+level for the federal funds rate at the end of the speciﬁed calendar year or over the longer run. The December projections were made in conjunction with
+the meeting of the Federal Open Market Committee on December 10–11, 2019. One participant did not submit longer-run projections for the change in
+real GDP, the unemployment rate, or the federal funds rate in conjunction with the December 10–11, 2019, meeting, and one participant did not submit
+such projections in conjunction with the June 9–10, 2020, meeting. No projections were submitted in conjunction with the March 2020 FOMC meeting.
+1. For each period, the median is the middle projection when the projections are arranged from lowest to highest. When the number of projections
+is even, the median is the average of the two middle projections.
+2. The central tendency excludes the three highest and three lowest projections for each variable in each year.3. The range for a variable in a given year includes all participants’ projections, from lowest to highest, for that variable in that year.
+4. Longer-run projections for core PCE inﬂation are not collected.
+Page 2
+Federal Open Market Committee
+_____________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________
+Figure 1. Medians, central tendencies, and ranges of economic projections, 2020–22 and over the longer run
+−10−8−6−4−202468
+2015 2016 2017 2018 2019 2020 2021 2022Median of projections
+Central tendency of projections
+Range of projectionsActualPercent
+Change in real GDP
+Longer
+run
+246810121416
+2015 2016 2017 2018 2019 2020 2021 2022Percent
+Unemployment rate
+Longer
+run
+0123
+2015 2016 2017 2018 2019 2020 2021 2022Percent
+PCE inflation
+Longer
+run
+0123
+2015 2016 2017 2018 2019 2020 2021 2022Percent
+Core PCE inflation
+Longer
+run
+Note: Deﬁnitions of variables and other explanations are in the notes to table 1. The data for the actual values
+of the variables are annual.
+Summary of Economic Projections of the Meeting of June 9–10, 2020
+Page 3
+_____________________________________________________________________________________________
+Figure 2. FOMC participants’ assessments of appropriate monetary policy: Midpoint of target range
+or target level for the federal funds rate
+0.00.51.01.52.02.53.03.54.0
+2020 2021 2022 Longer runPercent
+Note: Each shaded circle indicates the value (rounded to the nearest1/8percentage point) of an individual
+participant’s judgment of the midpoint of the appropriate target range for the federal funds rate or the appropriate
+target level for the federal funds rate at the end of the speciﬁed calendar year or over the longer run. One participant
+did not submit longer-run projections for the federal funds rate.
+Page 4
+Federal Open Market Committee
+_____________________________________________________________________________________________
+Figure 3.A. Distribution
+of participants’ projections for the change in real GDP, 2020–22 and over the longer run
+24681012141618
+ −10.0−
+−9.9 −9.4−
+−9.3 −8.8−
+−8.7 −8.2−
+−8.1 −7.6−
+−7.5 −7.0−
+−6.9 −6.4−
+−6.3 −5.8−
+−5.7 −5.2−
+−5.1 −4.6−
+−4.5 −4.0−
+−3.9 −3.4−
+−3.3 −2.8−
+−2.7 −2.2−
+−2.1 −1.6−
+−1.5 −1.0−
+−0.9 −0.4−
+−0.3 0.2−
+0.3 0.8−
+0.9 1.4−
+1.5 2.0−
+2.1 2.6−
+2.7 3.2−
+3.3 3.8−
+3.9 4.4−
+4.5 5.0−
+5.1 5.6−
+5.7 6.2−
+6.3 6.8−
+6.9
+Percent range      June projections
+December projectionsNumber of participants
+2020
+24681012141618
+ −10.0−
+−9.9 −9.4−
+−9.3 −8.8−
+−8.7 −8.2−
+−8.1 −7.6−
+−7.5 −7.0−
+−6.9 −6.4−
+−6.3 −5.8−
+−5.7 −5.2−
+−5.1 −4.6−
+−4.5 −4.0−
+−3.9 −3.4−
+−3.3 −2.8−
+−2.7 −2.2−
+−2.1 −1.6−
+−1.5 −1.0−
+−0.9 −0.4−
+−0.3 0.2−
+0.3 0.8−
+0.9 1.4−
+1.5 2.0−
+2.1 2.6−
+2.7 3.2−
+3.3 3.8−
+3.9 4.4−
+4.5 5.0−
+5.1 5.6−
+5.7 6.2−
+6.3 6.8−
+6.9
+Percent rangeNumber of participants
+2021
+24681012141618
+ −10.0−
+−9.9 −9.4−
+−9.3 −8.8−
+−8.7 −8.2−
+−8.1 −7.6−
+−7.5 −7.0−
+−6.9 −6.4−
+−6.3 −5.8−
+−5.7 −5.2−
+−5.1 −4.6−
+−4.5 −4.0−
+−3.9 −3.4−
+−3.3 −2.8−
+−2.7 −2.2−
+−2.1 −1.6−
+−1.5 −1.0−
+−0.9 −0.4−
+−0.3 0.2−
+0.3 0.8−
+0.9 1.4−
+1.5 2.0−
+2.1 2.6−
+2.7 3.2−
+3.3 3.8−
+3.9 4.4−
+4.5 5.0−
+5.1 5.6−
+5.7 6.2−
+6.3 6.8−
+6.9
+Percent rangeNumber of participants
+2022
+24681012141618
+ −10.0−
+−9.9 −9.4−
+−9.3 −8.8−
+−8.7 −8.2−
+−8.1 −7.6−
+−7.5 −7.0−
+−6.9 −6.4−
+−6.3 −5.8−
+−5.7 −5.2−
+−5.1 −4.6−
+−4.5 −4.0−
+−3.9 −3.4−
+−3.3 −2.8−
+−2.7 −2.2−
+−2.1 −1.6−
+−1.5 −1.0−
+−0.9 −0.4−
+−0.3 0.2−
+0.3 0.8−
+0.9 1.4−
+1.5 2.0−
+2.1 2.6−
+2.7 3.2−
+3.3 3.8−
+3.9 4.4−
+4.5 5.0−
+5.1 5.6−
+5.7 6.2−
+6.3 6.8−
+6.9
+Percent rangeNumber of participants
+Longer run
+Note: Deﬁnitions of
+variables and other explanations are in the notes to table 1.
+Summary of Economic Projections of the Meeting of June 9–10, 2020
+Page 5
+_____________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________________
+ 
+ 
+ pectations were generally for economic activity to re-
+cover during the next couple of  years.  Almost all partic-
+ipants expected that the rate of real GDP growth in 2021 and 2022 would be above their estimates of its longer-run pace, with the median projections being 5.0 percent and 3.5 percent, respectively.  The distribution of esti-
+mates of real GDP growth in the longer run was little 
+changed from the December SEP, although the median projection ticked down to 1.8 percent.   
+The distributions of participants’ projections for the un-
+employment rate from 2020 to 2022 and in the longer 
+run are shown in figure 3.B.  Reflecting the effects of the pandemic, the projections for the unemployment rate were revised up considerably throughout the forecast 
+period relative to the December SEP.  The projections 
+for the unemployment rate in the final quarter of this year ranged from 7.0 to 14.0 percent, with a median of 
+9.3 percent.  For the final quarter of 2021, the projec-
+tions for the unemployment rate ranged from 4.5 to 
+12.0 percent, with the median  being 6.5 percent.  The 
+width of the ranges of the forecasts for the unemploy-ment rate in the final quarters of this year and next year 
+were 7.0 percentage points and 7.5 percentage points, re-
+spectively—more than three times the widest ranges for forecasts of similar horizons  that were submitted from 
+2007 to 2009.  This unusually wide range of projections 
+highlighted the challenges of assessing the economic damage caused by the pandemic and of forecasting the recovery in the labor market.  The median projection for the unemployment rate in th e final quarter of 2022, at 
+5.5 percent, was above the median estimate of the longer-run normal rate of unemployment of 4.1 percent.  Indeed, almost all particip ants who submitted longer-
+run projections expected that the unemployment rate in 
+the final quarter of 2022 would still be above their esti-
+mates of the longer-run value.  Participants pointed to a number of factors to explain the persistence of labor market slack, including the co ntinuation of voluntary so-
+cial distancing, unusual disrup tions to labor markets, and 
+the need for businesses to restructure supply chains and other aspects of their operations.  The distribution of estimates for the longer-run unemployment rate was lit-
+tle changed from the December SEP.  
+The Outlook for Inflation 
+Figures 3.C and 3.D show the distributions of partici-pants’ projections for total and core PCE inflation from 
+2020 to 2022 and in the longer run.  All participants re-
+vised down their projections for inflation in 2020 relative to their December projections.  Participants expected that, in 2020, total inflati on would be between 0.5 and 
+1.2 percent,  while   core  in flation  would  be   between Table 2.  Average historical projection error ranges  
+Percentage points 
+Variable 2020 2021 2022 
+Change in real GDP1 . . . . . . . ±1.3 ±1.8 ±2.0 
+Unemployment rate1 . . . . . . . ±0.4 ±1.2 ±1.8 
+Total consumer prices2 . . . . . ±0.7 ±1.0 ±1.0 
+Short-term interest rates3 . . . . ±0.7 ±2.0 ±2.2 
+NOTE:  Error ranges shown are measured as plus  or minus the root 
+mean squared error of projections for 2000 through 2019 that were re-
+leased in the summer by various private and government forecasters.  As 
+described in the box “Forecast Unce rtainty,” under certain assumptions, 
+there is about a 70 percent probabilit y that actual outcomes for real 
+GDP, unemployment, consumer prices, and the federal funds rate will be in ranges implied by the average size of projection errors made in the 
+past.  For more information, see David Reifschneider and Peter Tulip 
+(2017), “Gauging the Uncertainty of  the Economic Outlook Using His-
+torical Forecasting Errors:  The Federal Reserve’s Approach,” Finance and Economics Discussion Series 20 17-020 (Washington:  Board of 
+Governors of the Federal Reserv e System, February), https://dx. 
+doi.org/10.17016/FEDS.2017.020. 
+1.  Definitions of variables are in the general note to table 1. 2.  Measure is the overall consumer price index, the price measure 
+that has been most widely used in government and private economic 
+forecasts.  Projections are percent changes on a fourth quarter to fourth quarter basis. 
+3.  For Federal Reserve staff forecasts, measure is the federal funds 
+rate.  For other forecasts, measure is the rate on 3-mont h Treasury bills.  
+Projection errors are calculated using average levels, in percent, in the fourth quarter. 
+ 
+0.7 and 1.3 percent, with me dian expectations for total 
+and core inflation of 0.8 percent and 1.0 percent, respec-tively.  In the December SEP, participants had expected that total inflation would be between 1.7 and 2.3 percent in 2020.  In the current SEP, almost all participants ex-
+pected the inflation rate to rise over the next two years.  However, the vast majority of participants expected PCE price inflation in 2022 to  fall short of the Commit-
+tee’s 2 percent inflation objective, with the median pro-
+jection for total PCE price inflation being 1.7 percent.   
+Appropriate Monetary Policy 
+The distributions of participants’ judgments regarding the appropriate target—or midpoint of the target 
+range—for the federal funds rate at the end of each year 
+from 2020 to 2022 and over the longer run are shown in figure 3.E.  With substantial agreement that the unem-ployment rate would remain above its longer-run level 
+throughout the forecast period and that inflation would 
+run below the Committee’s objective of 2 percent, al-most all participants projected that it would be appropri-ate to maintain the target range for the federal funds rate 
+at 0 to ¼ percent through at least the end of 2022.  The 
+median of participants’ estimates of the longer-run level of the federal funds rate was unchanged from December at 2.50 percent, although a few participants revised down 
+their estimates. 
+Page 6
+Federal Open Market Committee
+_____________________________________________________________________________________________
+Figure 3.B. Distributi
+on of participants’ projections for the unemployment rate, 2020–22 and over the longer run
+24681012141618
+ 3.2−
+3.3 3.8−
+3.9 4.4−
+4.5 5.0−
+5.1 5.6−
+5.7 6.2−
+6.3 6.8−
+6.9 7.4−
+7.5 8.0−
+8.1 8.6−
+8.7 9.2−
+9.3 9.8−
+9.9 10.4−
+10.5 11.0−
+11.1 11.6−
+11.7 12.2−
+12.3 12.8−
+12.9 13.4−
+13.5 14.0−
+14.1
+Percent range      June projections
+December projectionsNumber of participants
+2020
+24681012141618
+ 3.2−
+3.3 3.8−
+3.9 4.4−
+4.5 5.0−
+5.1 5.6−
+5.7 6.2−
+6.3 6.8−
+6.9 7.4−
+7.5 8.0−
+8.1 8.6−
+8.7 9.2−
+9.3 9.8−
+9.9 10.4−
+10.5 11.0−
+11.1 11.6−
+11.7 12.2−
+12.3 12.8−
+12.9 13.4−
+13.5 14.0−
+14.1
+Percent rangeNumber of participants
+2021
+24681012141618
+ 3.2−
+3.3 3.8−
+3.9 4.4−
+4.5 5.0−
+5.1 5.6−
+5.7 6.2−
+6.3 6.8−
+6.9 7.4−
+7.5 8.0−
+8.1 8.6−
+8.7 9.2−
+9.3 9.8−
+9.9 10.4−
+10.5 11.0−
+11.1 11.6−
+11.7 12.2−
+12.3 12.8−
+12.9 13.4−
+13.5 14.0−
+14.1
+Percent rangeNumber of participants
+2022
+24681012141618
+ 3.2−
+3.3 3.8−
+3.9 4.4−
+4.5 5.0−
+5.1 5.6−
+5.7 6.2−
+6.3 6.8−
+6.9 7.4−
+7.5 8.0−
+8.1 8.6−
+8.7 9.2−
+9.3 9.8−
+9.9 10.4−
+10.5 11.0−
+11.1 11.6−
+11.7 12.2−
+12.3 12.8−
+12.9 13.4−
+13.5 14.0−
+14.1
+Percent rangeNumber of participants
+Longer run
+Note: Deﬁnitions of
+variables and other explanations are in the notes to table 1.
+Summary of Economic Projections of the Meeting of June 9–10, 2020
+Page 7
+_____________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________________________________________
+Figure 3.C. Distribution of participants’ projections for PCE inﬂation, 2020–22 and over the longer run
+24681012141618
+ 0.5−
+0.6 0.7−
+0.8 0.9−
+1.0 1.1−
+1.2 1.3−
+1.4 1.5−
+1.6 1.7−
+1.8 1.9−
+2.0 2.1−
+2.2 2.3−
+2.4
+Percent range      June projections
+December projectionsNumber of participants
+2020
+24681012141618
+ 0.5−
+0.6 0.7−
+0.8 0.9−
+1.0 1.1−
+1.2 1.3−
+1.4 1.5−
+1.6 1.7−
+1.8 1.9−
+2.0 2.1−
+2.2 2.3−
+2.4
+Percent rangeNumber of participants
+2021
+24681012141618
+ 0.5−
+0.6 0.7−
+0.8 0.9−
+1.0 1.1−
+1.2 1.3−
+1.4 1.5−
+1.6 1.7−
+1.8 1.9−
+2.0 2.1−
+2.2 2.3−
+2.4
+Percent rangeNumber of participants
+2022
+24681012141618
+ 0.5−
+0.6 0.7−
+0.8 0.9−
+1.0 1.1−
+1.2 1.3−
+1.4 1.5−
+1.6 1.7−
+1.8 1.9−
+2.0 2.1−
+2.2 2.3−
+2.4
+Percent rangeNumber of participants
+Longer run
+Note: Deﬁnitions of variables and other explanations are in the notes to table 1.
+Page 8
+Federal Open Market Committee
+_____________________________________________________________________________________________
+Figure 3.D. Distribution of participants’ projections for core PCE inﬂation, 2020–22
+24681012141618
+ 0.7−
+0.8 0.9−
+1.0 1.1−
+1.2 1.3−
+1.4 1.5−
+1.6 1.7−
+1.8 1.9−
+2.0 2.1−
+2.2 2.3−
+2.4
+Percent range      June projections
+December projectionsNumber of participants
+2020
+24681012141618
+ 0.7−
+0.8 0.9−
+1.0 1.1−
+1.2 1.3−
+1.4 1.5−
+1.6 1.7−
+1.8 1.9−
+2.0 2.1−
+2.2 2.3−
+2.4
+Percent rangeNumber of participants
+2021
+24681012141618
+ 0.7−
+0.8 0.9−
+1.0 1.1−
+1.2 1.3−
+1.4 1.5−
+1.6 1.7−
+1.8 1.9−
+2.0 2.1−
+2.2 2.3−
+2.4
+Percent rangeNumber of participants
+2022
+Note: Deﬁnitions of variables and other explanations are in the notes to table 1.
+Summary of Economic Projections of the Meeting of June 9–10, 2020
+Page 9
+_____________________________________________________________________________________________
+Figure 3.E. Distribution of participants’ judgments of the midpoint of the appropriate target range for the
+federal funds rate or the appropriate target level for the federal funds rate, 2020–22 and over the longer run
+24681012141618
+ 0.13−
+0.37 0.38−
+0.62 0.63−
+0.87 0.88−
+1.12 1.13−
+1.37 1.38−
+1.62 1.63−
+1.87 1.88−
+2.12 2.13−
+2.37 2.38−
+2.62 2.63−
+2.87 2.88−
+3.12 3.13−
+3.37
+Percent range      June projections
+December projectionsNumber of participants
+2020
+24681012141618
+ 0.13−
+0.37 0.38−
+0.62 0.63−
+0.87 0.88−
+1.12 1.13−
+1.37 1.38−
+1.62 1.63−
+1.87 1.88−
+2.12 2.13−
+2.37 2.38−
+2.62 2.63−
+2.87 2.88−
+3.12 3.13−
+3.37
+Percent rangeNumber of participants
+2021
+24681012141618
+ 0.13−
+0.37 0.38−
+0.62 0.63−
+0.87 0.88−
+1.12 1.13−
+1.37 1.38−
+1.62 1.63−
+1.87 1.88−
+2.12 2.13−
+2.37 2.38−
+2.62 2.63−
+2.87 2.88−
+3.12 3.13−
+3.37
+Percent rangeNumber of participants
+2022
+24681012141618
+ 0.13−
+0.37 0.38−
+0.62 0.63−
+0.87 0.88−
+1.12 1.13−
+1.37 1.38−
+1.62 1.63−
+1.87 1.88−
+2.12 2.13−
+2.37 2.38−
+2.62 2.63−
+2.87 2.88−
+3.12 3.13−
+3.37
+Percent rangeNumber of participants
+Longer run
+Note: Deﬁnitions of variables and other explanations are in the notes to table 1.
+Page 10
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ 
+ Uncertainty and Risk 
+In assessing the appropriate path for monetary policy, 
+FOMC participants take account of the range of possible 
+economic outcomes, the likelihood of those outcomes, and the potential benefits and costs should they occur.  Participants’ assessments of the level of uncertainty sur-
+rounding their individual economic projections relative to the average level of uncertainty over the past 20 years are shown in the panels on the left side of figure 4.
+3  All 
+participants viewed the curr ent uncertainty surrounding 
+each of the four economic variables—real GDP growth, the unemployment rate, total PCE inflation, and core PCE inflation—as being greater than the average over the past 20 years, which is the first time this situation has 
+occurred since th e introduction of the SEP in 2007.
+4 
+Participants’ assessments of the balance of risks to their 
+current economic projections are shown in the panels on the right side of figure 4.  A substantial majority of par-
+ticipants judged the risks to their projections for real 
+GDP growth as weighted to the downside and the risks to their unemployment rate projections as weighted to the upside.  A substantial majo rity of participants viewed 
+the risks to their inflation projections as weighted to the downside; no participant assessed the risks to his or her inflation outlook as weighted to the upside. 
+In discussing the uncertainty and risks surrounding their 
+economic projections, the course of the pandemic was 
+generally mentioned as a key source of uncertainty.  The possibilities of second waves of contagion and delays in
+                                                            
+3 As a reference, table 2 provides estimates of the forecast un-
+certainty for the change in real GDP, the unemployment rate, 
+and total consumer price inflat ion over the period from 2000 
+through 2019.  At the end of th is summary, the box “Forecast 
+Uncertainty” discusses the sources and interpretation of un-
+certainty in the economic forecasts and explains the approach 
+used to assess the uncertainty and risks attending participants’ 
+projections.  developing a vaccine were seen as potential downside 
+risks to the economic outlook, and faster-than- 
+anticipated progress in responding to or treating the 
+coronavirus were seen as pote ntial upside risks.  Partici-
+pants also mentioned a number of other unknowns and risk factors related to the outlook, including the extent 
+of supply-side disruptions; possible changes in house-
+hold behavior; the degree to which business bankrupt-cies might cause dislocations; the extent of fiscal policy support; and possibly depressed foreign demand given 
+the global nature of the pandemic.  Several participants 
+also expressed concerns abou t longer-run issues in the 
+event of a prolonged recession, such as labor market scarring if the unemployment rate remained elevated and 
+inflation persistently undershooting the FOMC’s 2 per-
+cent inflation objective.   
+Participants’ assessments of the appropriate future path 
+of the federal funds rate are also subject to considerable 
+uncertainty.  Because the Committee adjusts monetary 
+policy in response to actual and prospective develop-ments over time in key economic variables—such as real GDP growth, the unemployment rate, and inflation—
+uncertainty surrounding the projected path for the fed-
+eral funds rate importantly reflects the uncertainties about the paths for these economic variables, along with other factors.  As with the macroeconomic variables, the 
+forecast uncertainty surrounding the appropriate path of 
+the federal funds rate is substantial.
+ 
+4 Previous SEP addendums to the FOMC minutes contained 
+figures showing the median projections, along with confi-dence intervals based on historical forecast errors.  Because 
+the level of uncertainty about the economic outlook is cur-
+rently judged to be higher than its historical average as a result 
+of uncertainty about the course of the coronavirus and its ef-
+fects on the economy, these “fan charts” have been omitted from this addendum.  
+Summary of Economic Projections of the Meeting of June 9–10, 2020
+Page 11
+_____________________________________________________________________________________________
+Figure 4. Uncertainty and risks in economic projections
+24681012141618
+Lower Broadly
+similarHigher     June projections
+December projectionsNumber of participants
+Uncertainty about GDP growth
+24681012141618
+Weighted to
+downsideBroadly
+balancedWeighted to
+upside     June projections
+December projectionsNumber of participants
+Risks to GDP growth
+24681012141618
+Lower Broadly
+similarHigherNumber of participants
+Uncertainty about the unemployment rate
+24681012141618
+Weighted to
+downsideBroadly
+balancedWeighted to
+upsideNumber of participants
+Risks to the unemployment rate
+24681012141618
+Lower Broadly
+similarHigherNumber of participants
+Uncertainty about PCE inflation
+24681012141618
+Weighted to
+downsideBroadly
+balancedWeighted to
+upsideNumber of participants
+Risks to PCE inflation
+24681012141618
+Lower Broadly
+similarHigherNumber of participants
+Uncertainty about core PCE inflation
+24681012141618
+Weighted to
+downsideBroadly
+balancedWeighted to
+upsideNumber of participants
+Risks to core PCE inflation
+Page 12
+Federal Open Market Committee
+_____________________________________________________________________________________________
+ 
+ 
+   
+ 
+  
+  
+Forecast Uncertainty 
+The economic projections provided by the mem-
+bers of the Board of Governors and the presidents of 
+the Federal Reserve Banks in form discussions of mon-
+etary policy among policymakers and can aid public un-derstanding of the basis for policy actions.  Considera-ble uncertainty attends thes e projections, however.  The 
+economic and statistical models and relationships used 
+to help produce economic fo recasts are necessarily im-
+perfect descriptions of the real world, and the future 
+path of the economy can be affected by myriad unfore-seen developments and even ts.  Thus, in setting the 
+stance of monetary policy, participants consider not only what appears to be the most likely economic out-come as embodied in their projections, but also the range of alternative possibilities, the likelihood of their 
+occurring, and the potential costs to the economy 
+should they occur. 
+Table 2 summarizes the average historical accuracy 
+of a range of forecasts, including those reported in past 
+Monetary Policy Report s and those prepared by the Federal 
+Reserve Board’s staff in advance of meetings of the Fed-
+eral Open Market Committee (FOMC).  The projection error ranges shown in the table illustrate the considera-
+ble uncertainty associated with economic forecasts.  For 
+example, suppose a participant projects that real gross domestic product (GDP) and total consumer prices will rise steadily at annual rate s of, respectively, 3 percent 
+and 2 percent.  If the uncertainty attending those pro-jections is similar to that ex perienced in the past and the 
+risks around the projections are broadly balanced, the numbers reported in table 2 would imply a probability 
+of about 70 percent that actual GDP would expand 
+within a range of 1.7 to 4.3 percent in the current year, 1.2 to 4.8 percent in the se cond year, and 1.0 to 5.0 per-
+cent in the third year.  The corresponding 70 percent 
+confidence intervals for overa ll inflation would be 1.3 to 
+2.7 percent in the current year and 1.0 to 3.0 percent in 
+the second and third years.   
+ Because current conditions may differ from those that 
+prevailed, on average, over history, participants provide judgments as to whether the uncertainty attached to their 
+projections of each economic variable is greater than, 
+smaller than, or broadly similar to typical levels of forecast 
+uncertainty seen in the past 20 years, as presented in ta-ble 2. 
+That is, participants judge whether each economic 
+variable is more likely to be above or below their projec-tions of the most likely outcome.  These judgments about the uncertainty and the risks attending each participant’s 
+projections are distinct from the diversity of participants’ 
+views about the most likely outcomes.  Forecast uncer-tainty is concerned with the ri sks associated with a partic-
+ular projection rather than with divergences across a num-
+ber of different projections.  As with real activity and in-
+flation, the outlook for the future path of the federal funds rate is subject to considerab le uncertainty.  This uncer-
+tainty arises primarily becaus e each participant’s assess-
+ment of the appropriate stance of monetary policy de-pends importantly on the evolution of real activity and in-flation over time.  If economic conditions evolve in an un-expected manner, then assessments of the appropriate set-
+ting of the federal funds rate would change from that point 
+forward.  The final line in table 2 shows the error ranges for forecasts of short-term in terest rates.  They suggest 
+that the historical confidence intervals associated with pro-
+jections of the federal funds rate are quite wide.  It should 
+be noted, however, that these confidence intervals are not strictly consistent with the projections for the federal funds rate, as these projections are not forecasts of the most 
+likely quarterly outcomes but rather are projections of par-
+ticipants’ individual assessments of appropriate monetary policy and are on an end-of-year basis.  However, the fore-cast errors should provide a sense of the uncertainty 
+around the future path of the federal funds rate generated 
+by the uncertainty about the macroeconomic variables as well as additional adjustments to monetary policy that would be appropriate to offset the effects of shocks to the 
+economy. 
+ 
+  
+Summary of Economic Projections of the Meeting of June 9–10, 2020
+Page 13
+_____________________________________________________________________________________________

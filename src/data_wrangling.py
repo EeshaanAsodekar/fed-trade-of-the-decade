@@ -69,4 +69,4 @@ def get_rate_moves_by_meeting():
 # Run the function
 if __name__ == "__main__":
     rate_moves_df = get_rate_moves_by_meeting()
-    rate_moves_df.to_csv("rate_moves.csv", index=False)
+    rate_moves_df.to_csv("data/processed/rate_moves.csv", index=False)

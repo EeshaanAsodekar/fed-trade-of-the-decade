@@ -15,7 +15,8 @@ macro_variables = {
     "CPI (All Urban Consumers)": "CPIAUCSL",
     "GDP Growth Rate": "GDPC1",
     "10-Year Treasury Yield": "DGS10",
-    "Fed Funds Rate": "FEDFUNDS",
+    "2-Year Treasury Yield": "DGS2",
+    # "Fed Funds Rate": "FEDFUNDS",
     "PCE Inflation": "PCEPI",
     "Industrial Production Index": "INDPRO",
     "Total Nonfarm Payrolls": "PAYEMS",
@@ -37,8 +38,6 @@ market_tickers = {
     "Gold": "GC=F",
     "Oil (WTI)": "CL=F",
     "US Dollar Index": "DX-Y.NYB",
-    "2-Year Treasury Yield": "^IRX",
-    "10-Year Treasury Yield": "^TNX"
 }
 
 # Specify the time range
@@ -56,6 +55,9 @@ for name, series_id in macro_variables.items():
 # Combine the macro data into a single DataFrame
 macro_df = pd.DataFrame(macro_data)
 
+# After fetching the data for all variables
+macro_df["2-10 Spread"] = macro_df["10-Year Treasury Yield"] - macro_df["2-Year Treasury Yield"]
+
 # Fetch market data using yfinance
 def fetch_market_data(ticker, start, end):
     print(f"Downloading market data for {ticker}...")
@@ -65,11 +67,6 @@ def fetch_market_data(ticker, start, end):
 market_data = {}
 for name, ticker in market_tickers.items():
     market_data[name] = fetch_market_data(ticker, start_date, end_date)
-
-# Compute the 2y-10y spread
-if "2-Year Treasury Yield" in market_data and "10-Year Treasury Yield" in market_data:
-    print("Calculating 2y-10y Treasury Yield Spread...")
-    market_data["2y-10y Spread"] = market_data["10-Year Treasury Yield"] - market_data["2-Year Treasury Yield"]
 
 # Combine the market data into a single DataFrame
 market_df = pd.DataFrame(market_data)

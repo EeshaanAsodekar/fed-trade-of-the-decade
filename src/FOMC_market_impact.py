@@ -155,3 +155,30 @@ rate_moves.to_csv("rate_moves_updated.csv", index=False)
 # Display the first few rows of the updated rate_moves DataFrame
 print(rate_moves.head())
 print(rate_moves.columns)
+
+import matplotlib.pyplot as plt
+
+# validating the 2y 10y and 2y 10y spread - SANITY CHECK
+selected_columns = ["10-Year Treasury Yield_pct_change", 
+                    "2-Year Treasury Yield_pct_change", 
+                    "2y-10y Spread_pct_change"]
+plt.figure(figsize=(12, 6))
+for col in selected_columns:
+    if col in rate_moves:
+        plt.scatter(rate_moves['date'], rate_moves[col], label=col, s=10)  # Plot as points
+
+plt.title('Percentage Changes in Selected Market Variables')
+plt.xlabel('Date')
+plt.ylabel('Percentage Change')
+plt.legend(loc='best', fontsize='small')
+plt.grid(True)
+# Format the x-axis to show dates in mm-dd-yy format
+plt.xticks(rate_moves['date'], rate_moves['date'].dt.strftime('%m-%d-%y'), rotation=45, fontsize=8)
+plt.tight_layout()
+plt.show()
+
+
+
+
+print(rate_moves.columns)
+print(rate_moves.isna().sum().sum())

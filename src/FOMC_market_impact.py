@@ -201,14 +201,6 @@ pct_change_columns = [
     'Consumer Staples (SP500)_pct_change',
     'Technology (SP500)_pct_change', 
     'Industrials (SP500)_pct_change',
-    'Financials (ETF)_pct_change', 
-    'Real Estate (ETF)_pct_change',
-    'Utilities (ETF)_pct_change', 
-    'Consumer Discretionary (ETF)_pct_change',
-    'Consumer Staples (ETF)_pct_change', 
-    'Technology (ETF)_pct_change',
-    'Industrials (ETF)_pct_change', 
-    'Energy (ETF)_pct_change', 'VIX_pct_change',
     'Gold_pct_change', 
     'Silver_pct_change', 
     'Copper_pct_change',
@@ -293,3 +285,231 @@ portfolio_weights.to_csv("portfolio_weights_multinomial.csv", index_label="Varia
 
 # Display the portfolio weights
 print(portfolio_weights)
+
+import statsmodels.api as sm
+
+# Initialize a dictionary to store coefficients
+coefficients = {}
+
+# Loop through each pct_change column and fit a linear regression
+for column in pct_change_columns:
+    X = rate_moves["rate_change"]  # Independent variable
+    y = rate_moves[column]  # Dependent variable
+    
+    # Add a constant for the intercept
+    X = sm.add_constant(X)
+    
+    # Fit the regression model
+    model = sm.OLS(y, X).fit()
+    
+    # Extract the coefficient for 'rate_change'
+    coefficients[column] = model.params["rate_change"]
+
+# Create a DataFrame for visualization
+coeff_df = pd.DataFrame.from_dict(coefficients, orient="index", columns=["Coefficient"])
+coeff_df = coeff_df.sort_values(by="Coefficient")
+
+# Plot the coefficients
+plt.figure(figsize=(12, 8))
+coeff_df["Coefficient"].plot(kind="bar", color=coeff_df["Coefficient"].apply(lambda x: "red" if x < 0 else "green"))
+plt.title("Coefficients of Market Variables vs. Rate Change", fontsize=14)
+plt.xlabel("Market Variable", fontsize=12)
+plt.ylabel("Coefficient", fontsize=12)
+plt.xticks(rotation=90)
+plt.axhline(0, color="black", linestyle="--", linewidth=0.8)
+plt.tight_layout()
+plt.show()
+
+print(rate_moves.columns)
+
+
+
+
+
+
+### portolfio vizl 
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.linear_model import LinearRegression
+
+# Assuming you already have your DataFrame 'rate_moves'
+# Columns include 'date', 'rate_change', and various '%_pct_change' columns.
+
+# Define which columns are features (independent variables: market instrument returns)
+feature_cols = [
+    '10-Year Treasury Yield_pct_change',
+    '2-Year Treasury Yield_pct_change',
+    '30-Year Treasury Yield_pct_change',
+    '2-10 Spread_pct_change',
+    'S&P 500_pct_change',
+    'Nasdaq_pct_change',
+    'Financials (SP500)_pct_change',
+    'Real Estate (SP500)_pct_change',
+    'Utilities (SP500)_pct_change',
+    'Consumer Discretionary (SP500)_pct_change',
+    'Consumer Staples (SP500)_pct_change',
+    'Technology (SP500)_pct_change',
+    'Industrials (SP500)_pct_change',
+    'Gold_pct_change',
+    'Silver_pct_change',
+    'Copper_pct_change',
+    'Oil (WTI)_pct_change',
+    'US Dollar Index_pct_change',
+    'EUR/USD_pct_change',
+    'USD/JPY_pct_change'
+]
+
+# Clean data
+df = rate_moves.copy()
+df = df.dropna(subset=feature_cols + ['rate_change'])
+df = df.reset_index(drop=True)
+
+# Create scenario labels:
+# Hike scenario: rate_change > 0
+# Cut scenario: rate_change < 0
+df['is_hike'] = (df['rate_change'] > 0).astype(int)
+df['is_cut'] = (df['rate_change'] < 0).astype(int)
+
+X = df[feature_cols].values  # Independent variables: market returns
+
+# -------------------------------------------------------
+# Portfolio for Hike scenario
+# Dependent variable (Y): is_hike (1 if hike occurred, 0 otherwise)
+# We want a portfolio that replicates a digital payoff for hikes.
+# -------------------------------------------------------
+y_hike = df['is_hike'].values
+
+hike_model = LinearRegression()
+hike_model.fit(X, y_hike)
+
+hike_weights = hike_model.coef_
+hike_intercept = hike_model.intercept_
+
+print("=== Hike Scenario Portfolio ===")
+print("Intercept:", hike_intercept)
+hike_portfolio = pd.Series(hike_weights, index=feature_cols)
+print("Hike Portfolio Weights:")
+print(hike_portfolio)
+
+# Predict the "payoff" for each scenario using the hike weights
+df['portfolio_hike_pred'] = hike_model.predict(X)
+
+# Performance statistics for the hike portfolio
+hike_returns_on_hike_days = df.loc[df['is_hike'] == 1, 'portfolio_hike_pred']
+hike_returns_on_non_hike_days = df.loc[df['is_hike'] == 0, 'portfolio_hike_pred']
+
+median_hike_return_on_hike_days = hike_returns_on_hike_days.median()
+min_hike_return_on_hike_days = hike_returns_on_hike_days.min()
+max_hike_return_on_hike_days = hike_returns_on_hike_days.max()
+
+median_hike_return_on_non_hike_days = hike_returns_on_non_hike_days.median()
+min_hike_return_on_non_hike_days = hike_returns_on_non_hike_days.min()
+max_hike_return_on_non_hike_days = hike_returns_on_non_hike_days.max()
+
+print("\nHike Portfolio Performance on Hike Days:")
+print("Median:", median_hike_return_on_hike_days)
+print("Minimum:", min_hike_return_on_hike_days)
+print("Maximum:", max_hike_return_on_hike_days)
+
+print("\nHike Portfolio Performance on Non-Hike Days:")
+print("Median:", median_hike_return_on_non_hike_days)
+print("Minimum:", min_hike_return_on_non_hike_days)
+print("Maximum:", max_hike_return_on_non_hike_days)
+
+
+# -------------------------------------------------------
+# Portfolio for Cut scenario
+# Dependent variable (Y): is_cut (1 if cut occurred, 0 otherwise)
+# We want a portfolio that replicates a digital payoff for cuts.
+# -------------------------------------------------------
+y_cut = df['is_cut'].values
+
+cut_model = LinearRegression()
+cut_model.fit(X, y_cut)
+
+cut_weights = cut_model.coef_
+cut_intercept = cut_model.intercept_
+
+print("\n=== Cut Scenario Portfolio ===")
+print("Intercept:", cut_intercept)
+cut_portfolio = pd.Series(cut_weights, index=feature_cols)
+print("Cut Portfolio Weights:")
+print(cut_portfolio)
+
+df['portfolio_cut_pred'] = cut_model.predict(X)
+
+# Performance statistics for the cut portfolio
+cut_returns_on_cut_days = df.loc[df['is_cut'] == 1, 'portfolio_cut_pred']
+cut_returns_on_non_cut_days = df.loc[df['is_cut'] == 0, 'portfolio_cut_pred']
+
+median_cut_return_on_cut_days = cut_returns_on_cut_days.median()
+min_cut_return_on_cut_days = cut_returns_on_cut_days.min()
+max_cut_return_on_cut_days = cut_returns_on_cut_days.max()
+
+median_cut_return_on_non_cut_days = cut_returns_on_non_cut_days.median()
+min_cut_return_on_non_cut_days = cut_returns_on_non_cut_days.min()
+max_cut_return_on_non_cut_days = cut_returns_on_non_cut_days.max()
+
+print("\nCut Portfolio Performance on Cut Days:")
+print("Median:", median_cut_return_on_cut_days)
+print("Minimum:", min_cut_return_on_cut_days)
+print("Maximum:", max_cut_return_on_cut_days)
+
+print("\nCut Portfolio Performance on Non-Cut Days:")
+print("Median:", median_cut_return_on_non_cut_days)
+print("Minimum:", min_cut_return_on_non_cut_days)
+print("Maximum:", max_cut_return_on_non_cut_days)
+
+# -------------------------------------------
+# Visualization
+# -------------------------------------------
+
+# Distribution of the hike portfolio predicted payoff
+plt.figure(figsize=(10,6))
+sns.kdeplot(df.loc[df['is_hike'] == 1, 'portfolio_hike_pred'], label='Hike Days', shade=True)
+sns.kdeplot(df.loc[df['is_hike'] == 0, 'portfolio_hike_pred'], label='Non-Hike Days', shade=True)
+plt.title('Hike Scenario Portfolio Predicted Payoff Distribution')
+plt.xlabel('Predicted Portfolio Payoff')
+plt.ylabel('Density')
+plt.legend()
+plt.tight_layout()
+plt.show()
+
+# Distribution of the cut portfolio predicted payoff
+plt.figure(figsize=(10,6))
+sns.kdeplot(df.loc[df['is_cut'] == 1, 'portfolio_cut_pred'], label='Cut Days', shade=True)
+sns.kdeplot(df.loc[df['is_cut'] == 0, 'portfolio_cut_pred'], label='Non-Cut Days', shade=True)
+plt.title('Cut Scenario Portfolio Predicted Payoff Distribution')
+plt.xlabel('Predicted Portfolio Payoff')
+plt.ylabel('Density')
+plt.legend()
+plt.tight_layout()
+plt.show()
+
+# Actual vs predicted comparison for hikes
+plt.figure(figsize=(8,6))
+plt.scatter(df['is_hike'], df['portfolio_hike_pred'], alpha=0.7)
+plt.plot([0,1],[0,1],'r--')
+plt.xlabel('Actual Hike Indicator')
+plt.ylabel('Predicted Portfolio Value (Hike Portfolio)')
+plt.title('Hike Scenario: Actual vs Predicted')
+plt.tight_layout()
+plt.show()
+
+# Actual vs predicted comparison for cuts
+plt.figure(figsize=(8,6))
+plt.scatter(df['is_cut'], df['portfolio_cut_pred'], alpha=0.7)
+plt.plot([0,1],[0,1],'r--')
+plt.xlabel('Actual Cut Indicator')
+plt.ylabel('Predicted Portfolio Value (Cut Portfolio)')
+plt.title('Cut Scenario: Actual vs Predicted')
+plt.tight_layout()
+plt.show()
+
+# This setup ensures:
+# - The scenario indicator (is_hike or is_cut) is the dependent variable (Y).
+# - The market returns (%_pct_change columns) are the independent variables (X).
+# The linear model finds weights that approximate the binary event using a linear combination of returns.
+# The resulting weights form a "replicating portfolio."

@@ -227,7 +227,13 @@ def get_text_macro_market_dataset(df_data_path, df_text_path):
     # Merge the target columns from df_data into df_text
     df_text = pd.merge(
         df_text,
-        df_data[['Date', 'tgt_dist_PCE Inflation YoY Change', 'tgt_dist_Unemployment Rate']],
+        df_data[['Date', 'tgt_dist_PCE Inflation YoY Change', 
+                 'tgt_dist_Unemployment Rate',
+                 'CPI (All Urban Consumers) YoY Change',
+                 'Core CPI (Ex Food & Energy) YoY Change',
+                 'PCE Inflation YoY Change',
+                 'Core PCE Inflation (Ex Food & Energy) YoY Change',
+                 ]],
         left_on='date',
         right_on='Date',
         how='left'

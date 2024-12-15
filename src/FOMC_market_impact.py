@@ -106,3 +106,52 @@ print("\nFINAL NULLS: ",df_interpolated.isna().sum().sum())
 print(df_interpolated.columns)
 
 df_interpolated.to_csv("trade_effect_market_data.csv")
+
+
+
+### getting changes for each FOMC meeting rate decision
+# Load the rate_moves and df_interpolated data
+rate_moves = pd.read_csv("data/processed/rate_moves.csv", parse_dates=["date"])
+
+rate_moves = rate_moves[rate_moves["date"] >= "2016-01-01"]
+
+# Initialize a dictionary to store computed percentage changes
+percentage_changes = {col: [] for col in df_interpolated.columns}
+
+# Loop through each FOMC meeting date
+for meeting_date in rate_moves["date"]:
+    # Define the analysis window (T-1 to T+3)
+    start_date = meeting_date - pd.Timedelta(days=1)
+    end_date = meeting_date + pd.Timedelta(days=3)
+    
+    print("*************************")
+    print(meeting_date)
+    print(start_date)
+    print(end_date)
+    print("*************************")
+
+    # Extract the subset of df_interpolated for the window
+    window_data = df_interpolated.loc[start_date:end_date]
+    
+    # Compute the percentage change from T-1 to T+3
+    if len(window_data) >= 2:
+        changes = (window_data.iloc[-1] - window_data.iloc[0]) / window_data.iloc[0]
+    else:
+        changes = pd.Series([None] * len(df_interpolated.columns), index=df_interpolated.columns)
+    
+    # Append the changes to the corresponding column
+    for col in df_interpolated.columns:
+        percentage_changes[col].append(changes[col])
+
+# Add the computed percentage changes as new columns to rate_moves
+for col, changes in percentage_changes.items():
+    rate_moves[col + "_pct_change"] = changes
+
+print(">>> nulls: ",rate_moves.isna().sum().sum())
+
+# Save the updated rate_moves dataframe
+rate_moves.to_csv("rate_moves_updated.csv", index=False)
+
+# Display the first few rows of the updated rate_moves DataFrame
+print(rate_moves.head())
+print(rate_moves.columns)

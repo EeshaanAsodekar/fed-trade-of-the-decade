@@ -141,6 +141,13 @@ if __name__ == "__main__":
         hawk_or_dove="hawk"
     )
 
+    score_df = get_hawkish_dovish_score_from_df(
+        dictionary_path="data/processed/dictionaries/hawk_unique.txt", 
+        df=df, 
+        text_column="combined_text", 
+        hawk_or_dove="hawk"
+    )
+
     print(score_df.columns)
 
     score_df.to_csv("test.csv",index=False) 
@@ -152,7 +159,8 @@ if __name__ == "__main__":
     hawkish_scores = [
         ('hawkish_meeting_minutes_score', 'Meeting Minutes Score'),
         ('hawkish_press_conference_score', 'Press Conference Score'),
-        ('hawkish_meeting_statements_score', 'Meeting Statements Score')
+        ('hawkish_meeting_statements_score', 'Meeting Statements Score'),
+        ('hawkish_combined_text_score', 'Combined Score')
     ]
 
     # Plot each hawkishness score in a separate subplot

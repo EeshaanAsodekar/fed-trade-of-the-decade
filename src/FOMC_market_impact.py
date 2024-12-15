@@ -20,13 +20,40 @@ macro_variables = {
 market_tickers = {
     "S&P 500": "^GSPC",
     "Nasdaq": "^IXIC",
+    
+    # S&P 500 Indexes
+    "Financials (SP500)": "^SP500-40",
+    "Real Estate (SP500)": "^SP500-60",
+    "Utilities (SP500)": "^SP500-55",
+    "Consumer Discretionary (SP500)": "^SP500-25",
+    "Consumer Staples (SP500)": "^SP500-30",
+    "Technology (SP500)": "^SP500-45",
+    "Industrials (SP500)": "^SP500-20",
+
+    # ETFs
+    "Financials (ETF)": "XLF",
+    "Real Estate (ETF)": "XLRE",
+    "Utilities (ETF)": "XLU",
+    "Consumer Discretionary (ETF)": "XLY",
+    "Consumer Staples (ETF)": "XLP",
+    "Technology (ETF)": "XLK",
+    "Industrials (ETF)": "XLI",
+    "Energy (ETF)": "XLE",
+
+    "VIX": "^VIX",
+    
     "Gold": "GC=F",
+    "Silver": "SI=F",
+    "Copper": "HG=F",
     "Oil (WTI)": "CL=F",
+    
     "US Dollar Index": "DX-Y.NYB",
+    "EUR/USD": "EURUSD=X",
+    "USD/JPY": "USDJPY=X",
 }
 
 # Specify the time range
-start_date = "2012-01-01"
+start_date = "2016-01-01"
 end_date = datetime.datetime.now().strftime("%Y-%m-%d")
 
 # Fetch macroeconomic data from FRED
@@ -69,12 +96,13 @@ df_interpolated = df.interpolate(method='linear', axis=0)
 print(df_interpolated.head())
 print(df_interpolated.shape)
 print(df_interpolated.isna().sum().sum())
+print("nulls", df_interpolated.isna().sum())
 
 df_interpolated.dropna(axis=0,inplace=True)
 
 print(df_interpolated.head())
 print(df_interpolated.shape)
-print(df_interpolated.isna().sum().sum())
+print("\nFINAL NULLS: ",df_interpolated.isna().sum().sum())
 print(df_interpolated.columns)
 
 df_interpolated.to_csv("trade_effect_market_data.csv")

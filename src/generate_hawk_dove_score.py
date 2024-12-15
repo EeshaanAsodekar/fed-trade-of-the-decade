@@ -113,6 +113,108 @@ def get_hawkish_dovish_score_from_df(dictionary_path: str, df: pd.DataFrame, tex
     return df
 
 
+import pandas as pd
+import numpy as np
+from sklearn.linear_model import LassoCV
+from sklearn.model_selection import TimeSeriesSplit
+import statsmodels.api as sm
+import matplotlib.pyplot as plt
+
+def get_composite_hawkishness_index():
+    df = pd.read_csv(r'test.csv')
+    print(df.head())
+    print(df.columns)
+
+    # Step 1: Define the target
+    # Here we use rate_change as a proxy for hawkishness measure
+    y = df['rate_change']
+
+    # Step 2: Select candidate features
+    # We'll pick all hawkish scores and some macro variables.
+    # Adjust the list as needed.
+    candidate_features = [
+        'hawkish_combined_text_score',
+        'tgt_dist_PCE Inflation YoY Change',
+        'tgt_dist_Unemployment Rate',
+        'pct_change_in_CPI (All Urban Consumers) YoY Change',
+        'pct_change_in_Core CPI (Ex Food & Energy) YoY Change',
+        'pct_change_in_PCE Inflation YoY Change',
+        'pct_change_in_Core PCE Inflation (Ex Food & Energy) YoY Change',
+        'pct_change_in_Real GDP',
+        'pct_change_in_10-Year Treasury Yield',
+        'pct_change_in_2-Year Treasury Yield',
+        'pct_change_in_2-10 Spread',
+        'pct_change_in_Total Nonfarm Payrolls',
+    ]
+
+    X = df[candidate_features].copy()
+
+    # Step 3: Basic Correlation Analysis (optional)
+    corr_matrix = X.corrwith(y)
+    print("Correlation with Target:\n", corr_matrix.sort_values(ascending=False))
+
+    # # Drop features with very low correlation to simplify (optional)
+    # low_corr_feats = corr_matrix[abs(corr_matrix)<0.05].index
+    # X.drop(columns=low_corr_feats, inplace=True)
+
+    # Step 4: Use a LassoCV to select features
+    # For time series data, consider a time-series split
+    tscv = TimeSeriesSplit(n_splits=5)
+    lasso = LassoCV(cv=tscv, random_state=42, max_iter=50000)
+    lasso.fit(X, y)
+
+    # Print out coefficients
+    feature_coef = pd.Series(lasso.coef_, index=X.columns)
+    print("Lasso selected features and their coefficients:\n", feature_coef)
+
+    # Keep only features with non-zero coefficients
+    selected_features = feature_coef[feature_coef!=0].index.tolist()
+    print("Selected Features:", selected_features)
+
+    # Step 5: Fit a statsmodels OLS model with the selected features
+    X_selected = sm.add_constant(X[selected_features])
+    model = sm.OLS(y, X_selected).fit()
+    print(model.summary())
+
+    # Interpret the model summary:
+    # - Look at p-values to further refine your set of features.
+    # - Features with low p-values are more statistically significant.
+    # - If needed, remove features that are not significant and re-run until you get a stable set.
+
+    # Once stable, you have a model such as:
+    # fed_hawkishness = sum_{i}(coeff_i * feature_i)
+
+    # Step 6: Create the Hawkishness Index
+    # Use the selected features and their coefficients to compute the index
+    hawkishness_index = X[selected_features] @ feature_coef[selected_features]
+
+    # Add the index to the DataFrame
+    df['hawkishness_index'] = hawkishness_index
+
+    # Display the resulting DataFrame with the Hawkishness Index
+    print(df[['date', 'hawkishness_index']].head())
+
+
+    # Plot Lasso predictions against actual rate_change
+    fig, ax1 = plt.subplots(figsize=(12, 6))
+
+    # Plot actual rate_change on the primary y-axis
+    ax1.plot(df['date'], y, label='Actual Rate Change', color='red', linestyle='--', linewidth=2)
+    ax1.set_xlabel('Date')
+    ax1.set_ylabel('Rate Change', color='red')
+    ax1.tick_params(axis='y', labelcolor='red')
+
+    # Add predicted hawkishness index on the second y-axis
+    ax2 = ax1.twinx()
+    ax2.plot(df['date'], hawkishness_index, label='Predicted Hawkishness Index', color='blue', linewidth=2)
+    ax2.set_ylabel('Hawkishness Index', color='blue')
+    ax2.tick_params(axis='y', labelcolor='blue')
+
+    # Add titles and legend
+    plt.title('Lasso Model: Actual Rate Change vs Predicted Hawkishness Index')
+    fig.tight_layout()
+    plt.show()
+
 
 
 if __name__ == "__main__":
@@ -194,3 +296,4 @@ if __name__ == "__main__":
         plt.tight_layout()
         plt.show()
 
+    get_composite_hawkishness_index()

@@ -180,5 +180,116 @@ plt.show()
 
 
 
+# plotting by quintiles
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+# List of columns to visualize
+pct_change_columns = [
+    '10-Year Treasury Yield_pct_change', 
+    '2-Year Treasury Yield_pct_change',
+    '30-Year Treasury Yield_pct_change', 
+    '2-10 Spread_pct_change',
+    'S&P 500_pct_change', 
+    'Nasdaq_pct_change', 
+    'Financials (SP500)_pct_change',
+    'Real Estate (SP500)_pct_change', 
+    'Utilities (SP500)_pct_change',
+    'Consumer Discretionary (SP500)_pct_change', 
+    'Consumer Staples (SP500)_pct_change',
+    'Technology (SP500)_pct_change', 
+    'Industrials (SP500)_pct_change',
+    'Financials (ETF)_pct_change', 
+    'Real Estate (ETF)_pct_change',
+    'Utilities (ETF)_pct_change', 
+    'Consumer Discretionary (ETF)_pct_change',
+    'Consumer Staples (ETF)_pct_change', 
+    'Technology (ETF)_pct_change',
+    'Industrials (ETF)_pct_change', 
+    'Energy (ETF)_pct_change', 'VIX_pct_change',
+    'Gold_pct_change', 
+    'Silver_pct_change', 
+    'Copper_pct_change',
+    'Oil (WTI)_pct_change', 
+    'US Dollar Index_pct_change',
+    'EUR/USD_pct_change', 
+    'USD/JPY_pct_change',
+]
+
+# Create a plot for each column grouped by 'rate_change'
+for column in pct_change_columns:
+    plt.figure(figsize=(10, 6))
+    sns.boxplot(x='rate_change', y=column, data=rate_moves, palette="Set2")
+    plt.title(f"{column} by Rate Change")
+    plt.xlabel("Rate Change")
+    plt.ylabel("Percentage Change")
+    plt.tight_layout()
+    # plt.savefig(f"plt_{column}_change.png")
+    plt.close()
+
 print(rate_moves.columns)
-print(rate_moves.isna().sum().sum())
+
+
+print("SHAPE >>> ",rate_moves.shape)
+print("NULLS >>> ",rate_moves.isna().sum().sum())
+
+import pandas as pd
+from sklearn.linear_model import LogisticRegression
+from sklearn.preprocessing import StandardScaler
+import numpy as np
+
+# Step 1: Create the labels for "Hike", "Hold", and "Cut"
+rate_moves["rate_label"] = rate_moves["rate_change"].apply(lambda x: "hike" if x > 0 else ("cut" if x < 0 else "hold"))
+
+# Convert labels to numeric values for logistic regression
+label_mapping = {"hike": 0, "hold": 1, "cut": 2}
+rate_moves["rate_label_numeric"] = rate_moves["rate_label"].map(label_mapping)
+
+# Step 2: Prepare the feature set (market variables)
+# List of expected pct_change columns
+expected_pct_columns = [
+    '10-Year Treasury Yield_pct_change', '2-Year Treasury Yield_pct_change',
+    '30-Year Treasury Yield_pct_change', '2-10 Spread_pct_change',
+    'S&P 500_pct_change', 'Nasdaq_pct_change', 'Financials (SP500)_pct_change',
+    'Real Estate (SP500)_pct_change', 'Utilities (SP500)_pct_change',
+    'Consumer Discretionary (SP500)_pct_change', 'Consumer Staples (SP500)_pct_change',
+    'Technology (SP500)_pct_change', 'Industrials (SP500)_pct_change',
+    'Financials (ETF)_pct_change', 'Real Estate (ETF)_pct_change',
+    'Utilities (ETF)_pct_change', 'Consumer Discretionary (ETF)_pct_change',
+    'Consumer Staples (ETF)_pct_change', 'Technology (ETF)_pct_change',
+    'Industrials (ETF)_pct_change', 'Energy (ETF)_pct_change', 'VIX_pct_change',
+    'Gold_pct_change', 'Silver_pct_change', 'Copper_pct_change',
+    'Oil (WTI)_pct_change', 'US Dollar Index_pct_change',
+    'EUR/USD_pct_change', 'USD/JPY_pct_change',
+]
+
+feature_columns = [col for col in expected_pct_columns]
+print("shit agfter",rate_moves.columns)
+X = rate_moves[expected_pct_columns]
+
+y = rate_moves["rate_label_numeric"]  # Target variable
+
+# Standardize the features for regression
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# Step 3: Fit Multinomial Logistic Regression
+log_reg = LogisticRegression(multi_class="multinomial", solver="lbfgs", max_iter=1000)
+log_reg.fit(X_scaled, y)
+
+# Step 4: Extract Portfolio Weights
+# The coefficients for each label (hike, hold, cut) are stored in log_reg.coef_
+portfolio_weights = pd.DataFrame(log_reg.coef_.T, columns=["hike_weight", "hold_weight", "cut_weight"], index=feature_columns)
+
+# Normalize weights to sum to 1 for each label
+portfolio_weights["hike_weight_normalized"] = portfolio_weights["hike_weight"] / np.sum(np.abs(portfolio_weights["hike_weight"]))
+portfolio_weights["hold_weight_normalized"] = portfolio_weights["hold_weight"] / np.sum(np.abs(portfolio_weights["hold_weight"]))
+portfolio_weights["cut_weight_normalized"] = portfolio_weights["cut_weight"] / np.sum(np.abs(portfolio_weights["cut_weight"]))
+
+# Save portfolio weights for reference
+portfolio_weights.to_csv("portfolio_weights_multinomial.csv", index_label="Variable")
+
+# Display the portfolio weights
+print(portfolio_weights)

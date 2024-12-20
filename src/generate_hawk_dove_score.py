@@ -8,6 +8,7 @@ import math
 import warnings
 import pandas as pd
 from collections import Counter
+import matplotlib.dates as mdates
 
 
 def load_dataset():
@@ -195,23 +196,35 @@ def get_composite_hawkishness_index():
     print(df[['date', 'hawkishness_index']].head())
 
 
+    import matplotlib.dates as mdates
+
+    # Ensure 'date' column is in datetime format
+    df['date'] = pd.to_datetime(df['date'])
+
     # Plot Lasso predictions against actual rate_change
     fig, ax1 = plt.subplots(figsize=(12, 6))
 
     # Plot actual rate_change on the primary y-axis
     ax1.plot(df['date'], y, label='Actual Rate Change', color='red', linestyle='--', linewidth=2)
-    ax1.set_xlabel('Date')
-    ax1.set_ylabel('Rate Change', color='red')
+    ax1.set_xlabel('Year', fontsize=12)
+    ax1.set_ylabel('Rate Change', color='red', fontsize=12)
     ax1.tick_params(axis='y', labelcolor='red')
 
     # Add predicted hawkishness index on the second y-axis
     ax2 = ax1.twinx()
     ax2.plot(df['date'], hawkishness_index, label='Predicted Hawkishness Index', color='blue', linewidth=2)
-    ax2.set_ylabel('Hawkishness Index', color='blue')
+    ax2.set_ylabel('Hawkishness Index', color='blue', fontsize=12)
     ax2.tick_params(axis='y', labelcolor='blue')
 
+    # Format the x-axis to show only the year
+    ax1.xaxis.set_major_formatter(mdates.DateFormatter('%Y'))  # Year format
+    ax1.xaxis.set_major_locator(mdates.YearLocator())  # Tick every year
+
+    # Reduce text size and rotate the x-axis labels for clarity
+    plt.xticks(fontsize=10, rotation=0)
+
     # Add titles and legend
-    plt.title('Lasso Model: Actual Rate Change vs Predicted Hawkishness Index')
+    plt.title('Lasso Model: Actual Rate Change vs Predicted Hawkishness Index', fontsize=14)
     fig.tight_layout()
     plt.show()
 

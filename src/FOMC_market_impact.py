@@ -2,6 +2,7 @@ from fredapi import Fred
 import pandas as pd
 import datetime
 import yfinance as yf
+import os
 
 # Replace with your FRED API Key
 FRED_API_KEY = "efe3da4f00a3fac72acd1e0dbe68901d"
@@ -53,7 +54,7 @@ market_tickers = {
 }
 
 # Specify the time range
-start_date = "2016-01-01"
+start_date = "2019-01-01"
 end_date = datetime.datetime.now().strftime("%Y-%m-%d")
 
 # Fetch macroeconomic data from FRED
@@ -206,8 +207,8 @@ pct_change_columns = [
     'Copper_pct_change',
     'Oil (WTI)_pct_change', 
     'US Dollar Index_pct_change',
-    'EUR/USD_pct_change', 
-    'USD/JPY_pct_change',
+    # 'EUR/USD_pct_change', 
+    # 'USD/JPY_pct_change',
 ]
 
 # Create a plot for each column grouped by 'rate_change'
@@ -218,7 +219,9 @@ for column in pct_change_columns:
     plt.xlabel("Rate Change")
     plt.ylabel("Percentage Change")
     plt.tight_layout()
-    # plt.savefig(f"plt_{column}_change.png")
+    # Create the directory if it doesn't exist
+    os.makedirs("plots", exist_ok=True)
+    plt.savefig(f"plots/plt_{column}_change.png")
     plt.close()
 
 print(rate_moves.columns)

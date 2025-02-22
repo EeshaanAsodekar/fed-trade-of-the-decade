@@ -159,9 +159,9 @@ ax1.set_xlim(min_date, max_date)
 
 # Second y-axis: Hawkishness Index from your analysis
 ax2 = ax1.twinx()
-ax2.plot(df['date'], df['hawkishness_index'], label='Hawkishness Index', color='blue',
+ax2.plot(df['date'], df['hawkishness_index'], label='Custom Hawkishness Index', color='blue',
          linestyle='solid')
-ax2.set_ylabel('Hawkishness Index', color='blue')
+ax2.set_ylabel('Custom Hawkishness Index', color='blue')
 ax2.tick_params(axis='y', labelcolor='blue')
 
 # Third y-axis: FOMC Sentiment Index from BBG data

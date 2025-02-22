@@ -168,8 +168,8 @@ ax2.tick_params(axis='y', labelcolor='blue')
 ax3 = ax1.twinx()
 ax3.spines["right"].set_position(("outward", 60))
 ax3.plot(bbg_df_filtered['Date'], bbg_df_filtered['FOMC_Sentiment_Index'], 
-         label='FOMC Sentiment Index', color='green', linestyle='solid')
-ax3.set_ylabel('FOMC Sentiment Index', color='green')
+         label='BBG FOMC Sentiment Index', color='green', linestyle='solid')
+ax3.set_ylabel('BBG FOMC Sentiment Index', color='green')
 ax3.tick_params(axis='y', labelcolor='green')
 
 # Fourth y-axis: Econ Hawkishness Index from econ_index_df
@@ -181,7 +181,7 @@ ax4.set_ylabel('Econ Hawkishness Index', color='purple')
 ax4.tick_params(axis='y', labelcolor='purple')
 
 # Title for the plot
-plt.title('Rate Change, Hawkishness Indices, and FOMC Sentiment Index Over Time')
+plt.title('Rate Change, Hawkishness Indices, and BBG FOMC Sentiment Index Over Time')
 
 # Combine legends from all axes
 lines_1, labels_1 = ax1.get_legend_handles_labels()
